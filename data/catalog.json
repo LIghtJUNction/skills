@@ -1,6 +1,6 @@
 {
   "owner": "LIghtJUNction",
-  "checked_at": "2026-11-02T10:47:28.137080+00:00",
+  "checked_at": "2026-11-02T10:56:32.923612+00:00",
   "repositories": [
     {
       "repo": "LIghtJUNction/ace5-kernelsu-next-susfs",
@@ -496,6 +496,15 @@
         "skills/humangrant-integrate/SKILL.md",
         "skills/humangrant-use/SKILL.md"
       ],
+      "truncated": false
+    },
+    {
+      "repo": "LIghtJUNction/index",
+      "branch": "main",
+      "description": "自动更新的 GitHub 项目索引 · Searchable project directory",
+      "archived": false,
+      "sha": "57e0b91e2aa9eb97619380a43f524fd672da36d2",
+      "paths": [],
       "truncated": false
     },
     {
