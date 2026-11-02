@@ -1,6 +1,6 @@
 {
   "owner": "LIghtJUNction",
-  "checked_at": "2026-11-02T10:56:32.923612+00:00",
+  "checked_at": "2026-11-02T11:00:59.147359+00:00",
   "repositories": [
     {
       "repo": "LIghtJUNction/ace5-kernelsu-next-susfs",
@@ -56,7 +56,7 @@
       "branch": "main",
       "description": "Agent-directed, bounded Btrfs deduplication with CLI and MCP interfaces",
       "archived": false,
-      "sha": "87d0e9ec5f4824ff575dc5bedd342a30b59496ec",
+      "sha": "b25c622e78c4c82b30708b676a6141c9671922b3",
       "paths": [
         "skills/agentic-bees/SKILL.md"
       ],
@@ -503,7 +503,7 @@
       "branch": "main",
       "description": "自动更新的 GitHub 项目索引 · Searchable project directory",
       "archived": false,
-      "sha": "57e0b91e2aa9eb97619380a43f524fd672da36d2",
+      "sha": "35c8d5babd789308dee20a2934aa73cfde94bd8d",
       "paths": [],
       "truncated": false
     },

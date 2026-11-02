@@ -19,7 +19,7 @@
 
 | 技能入口 | 仓库内路径 | 核对快照 |
 | --- | --- | --- |
-| [agentic-bees](https://github.com/LIghtJUNction/agentic-bees/blob/main/skills/agentic-bees/SKILL.md) | `skills/agentic-bees/SKILL.md` | [固定版本](https://github.com/LIghtJUNction/agentic-bees/blob/87d0e9ec5f4824ff575dc5bedd342a30b59496ec/skills/agentic-bees/SKILL.md) |
+| [agentic-bees](https://github.com/LIghtJUNction/agentic-bees/blob/main/skills/agentic-bees/SKILL.md) | `skills/agentic-bees/SKILL.md` | [固定版本](https://github.com/LIghtJUNction/agentic-bees/blob/b25c622e78c4c82b30708b676a6141c9671922b3/skills/agentic-bees/SKILL.md) |
 
 ### [LIghtJUNction/anime-reaction-gif](https://github.com/LIghtJUNction/anime-reaction-gif)
 
