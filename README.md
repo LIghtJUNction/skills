@@ -119,8 +119,6 @@ npx skills add LIghtJUNction/linux-windows-apps
 npx skills add https://github.com/LIghtJUNction/agentic-bees/tree/main/skills/agentic-bees
 ```
 
-当前源文件的 YAML 头部格式有误，缺少有效的 `description` 字段，安装器可能无法识别；上面的源地址正确，但需要原仓库修复后才能正常使用。
-
 #### [mechrevo-verification](https://github.com/LIghtJUNction/mechrevo-drivers/blob/main/docs/skills/mechrevo-verification/SKILL.md)
 
 核验机械革命 Linux 驱动的构建、安装和硬件表现。

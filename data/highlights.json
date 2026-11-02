@@ -88,8 +88,7 @@
         "repo": "agentic-bees",
         "path": "skills/agentic-bees/SKILL.md",
         "name": "agentic-bees",
-        "description": "按限定范围扫描 Btrfs 重复数据，再执行授权的去重。",
-        "install_note": "当前源文件的 YAML 头部格式有误，缺少有效的 `description` 字段，安装器可能无法识别；上面的源地址正确，但需要原仓库修复后才能正常使用。"
+        "description": "按限定范围扫描 Btrfs 重复数据，再执行授权的去重。"
       },
       {
         "repo": "mechrevo-drivers",
