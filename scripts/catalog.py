@@ -7,6 +7,7 @@ from datetime import datetime, timezone
 import json
 from pathlib import Path
 import re
+import shlex
 import subprocess
 from urllib.parse import quote
 
@@ -80,6 +81,15 @@ def cell(value):
     return str(value).replace("|", "&#124;").replace("\n", " ")
 
 
+def install_command(repo, path):
+    directory = path.rsplit("/", 1)[0] if "/" in path else ""
+    source = repo["repo"]
+    if directory:
+        source = (f"https://github.com/{source}/tree/"
+                  f"{quote(repo['branch'], safe='')}/{quote(directory, safe='/')}")
+    return "npx skills add " + shlex.quote(source)
+
+
 def replace_section(text, name, content):
     start, end = f"<!-- {name}:start -->", f"<!-- {name}:end -->"
     assert text.count(start) == text.count(end) == 1, name
@@ -101,13 +111,17 @@ def outputs(data):
     highlights = json.loads((ROOT / "data/highlights.json").read_text())
     sections = []
     for group in highlights:
-        sections.extend([f"### {group['title']}", "", "| 技能 | 用来做什么 |", "| --- | --- |"])
+        sections.extend([f"### {group['title']}", ""])
         for item in group["items"]:
             repo = by_name[item["repo"]]
             path = item["path"]
             assert path in repo["paths"], (item["repo"], path)
             status = "（已归档）" if repo["archived"] else ""
-            sections.append(f"| [{cell(item['name'])}]({url(repo, path)}){status} | {cell(item['description'])} |")
+            sections.extend([f"#### [{cell(item['name'])}]({url(repo, path)}){status}", "",
+                             item['description'], "", "```sh",
+                             install_command(repo, path), "```", ""])
+            if item.get("install_note"):
+                sections.extend([item["install_note"], ""])
         sections.append("")
     readme = (ROOT / "README.md").read_text()
     readme = replace_section(readme, "highlights", "\n".join(sections).rstrip())
@@ -134,6 +148,10 @@ def main():
     parser.add_argument("command", choices=["refresh", "render", "check"])
     args = parser.parse_args()
     data = discover() if args.command == "refresh" else json.loads(DATA.read_text())
+    if args.command == "refresh" and DATA.exists():
+        previous = json.loads(DATA.read_text())
+        if data["repositories"] == previous["repositories"]:
+            data["checked_at"] = previous["checked_at"]
     rendered = outputs(data)
     if args.command == "check":
         for path, expected in rendered.items():

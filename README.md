@@ -9,46 +9,163 @@
 <!-- highlights:start -->
 ### 做图和写内容
 
-| 技能 | 用来做什么 |
-| --- | --- |
-| [draw-project-meme](https://github.com/LIghtJUNction/draw-project-meme/blob/main/SKILL.md) | 查清开源项目的原理，再画成荒诞手绘梗图。 |
-| [anime-reaction-gif](https://github.com/LIghtJUNction/anime-reaction-gif/blob/main/skills/anime-reaction-gif/SKILL.md) | 用角色姿势图做循环表情 GIF，附 MP4 预览。 |
-| [ascii-morph-gif](https://github.com/LIghtJUNction/ascii-morph-gif/blob/main/skills/ascii-morph-gif/SKILL.md) | 让一个物体变成另一个物体，做成 ASCII 字符动画。 |
-| [painterly-loop-gif](https://github.com/LIghtJUNction/painterly-loop-gif/blob/main/skills/painterly-loop-gif/SKILL.md) | 做带雨滴、萤火虫和轻微摇摆的绘画风循环 GIF。 |
-| [particle-sculpture](https://github.com/LIghtJUNction/particle-sculpture-skill/blob/main/SKILL.md) | 做可交互的 3D 粒子雕塑，包含动画和鼠标、触摸响应。 |
-| [二手车短视频文案](https://github.com/LIghtJUNction/used-car-video-copywriting-skill/blob/main/.agents/skills/douyin-used-car-video-copy/SKILL.md) | 根据真实车辆信息写口播、分镜和拍摄素材清单。 |
+#### [draw-project-meme](https://github.com/LIghtJUNction/draw-project-meme/blob/main/SKILL.md)
+
+查清开源项目的原理，再画成荒诞手绘梗图。
+
+```sh
+npx skills add LIghtJUNction/draw-project-meme
+```
+
+#### [anime-reaction-gif](https://github.com/LIghtJUNction/anime-reaction-gif/blob/main/skills/anime-reaction-gif/SKILL.md)
+
+用角色姿势图做循环表情 GIF，附 MP4 预览。
+
+```sh
+npx skills add https://github.com/LIghtJUNction/anime-reaction-gif/tree/main/skills/anime-reaction-gif
+```
+
+#### [ascii-morph-gif](https://github.com/LIghtJUNction/ascii-morph-gif/blob/main/skills/ascii-morph-gif/SKILL.md)
+
+让一个物体变成另一个物体，做成 ASCII 字符动画。
+
+```sh
+npx skills add https://github.com/LIghtJUNction/ascii-morph-gif/tree/main/skills/ascii-morph-gif
+```
+
+#### [painterly-loop-gif](https://github.com/LIghtJUNction/painterly-loop-gif/blob/main/skills/painterly-loop-gif/SKILL.md)
+
+做带雨滴、萤火虫和轻微摇摆的绘画风循环 GIF。
+
+```sh
+npx skills add https://github.com/LIghtJUNction/painterly-loop-gif/tree/main/skills/painterly-loop-gif
+```
+
+#### [particle-sculpture](https://github.com/LIghtJUNction/particle-sculpture-skill/blob/main/SKILL.md)
+
+做可交互的 3D 粒子雕塑，包含动画和鼠标、触摸响应。
+
+```sh
+npx skills add LIghtJUNction/particle-sculpture-skill
+```
+
+#### [二手车短视频文案](https://github.com/LIghtJUNction/used-car-video-copywriting-skill/blob/main/.agents/skills/douyin-used-car-video-copy/SKILL.md)
+
+根据真实车辆信息写口播、分镜和拍摄素材清单。
+
+```sh
+npx skills add https://github.com/LIghtJUNction/used-car-video-copywriting-skill/tree/main/.agents/skills/douyin-used-car-video-copy
+```
+
 
 ### 开发和项目推广
 
-| 技能 | 用来做什么 |
-| --- | --- |
-| [geg](https://github.com/LIghtJUNction/geg/blob/main/skills/geg/SKILL.md) | 用语义搜索查本地代码和文本。 |
-| [cpyref](https://github.com/LIghtJUNction/cpyref/blob/main/skills/cpyref/SKILL.md) | 通过引用交接笔记和文件，按需读取并复用原始字节。 |
-| [markref](https://github.com/LIghtJUNction/markref/blob/main/skills/markref/SKILL.md) | 定位分散在多个文件里的同一功能，维护源码标记。 |
-| [awesome-submit](https://github.com/LIghtJUNction/awesome-submit/blob/main/SKILL.md) | 检查收录规则和重复项，把项目提交到合适的 awesome 列表。 |
-| [x-quality-growth](https://github.com/LIghtJUNction/x-quality-growth/blob/main/SKILL.md) | 结合 X 开源推荐算法做内容和互动实验，记录结果。 |
+#### [geg](https://github.com/LIghtJUNction/geg/blob/main/skills/geg/SKILL.md)
+
+用语义搜索查本地代码和文本。
+
+```sh
+npx skills add https://github.com/LIghtJUNction/geg/tree/main/skills/geg
+```
+
+#### [cpyref](https://github.com/LIghtJUNction/cpyref/blob/main/skills/cpyref/SKILL.md)
+
+通过引用交接笔记和文件，按需读取并复用原始字节。
+
+```sh
+npx skills add https://github.com/LIghtJUNction/cpyref/tree/main/skills/cpyref
+```
+
+#### [markref](https://github.com/LIghtJUNction/markref/blob/main/skills/markref/SKILL.md)
+
+定位分散在多个文件里的同一功能，维护源码标记。
+
+```sh
+npx skills add https://github.com/LIghtJUNction/markref/tree/main/skills/markref
+```
+
+#### [awesome-submit](https://github.com/LIghtJUNction/awesome-submit/blob/main/SKILL.md)
+
+检查收录规则和重复项，把项目提交到合适的 awesome 列表。
+
+```sh
+npx skills add LIghtJUNction/awesome-submit
+```
+
+#### [x-quality-growth](https://github.com/LIghtJUNction/x-quality-growth/blob/main/SKILL.md)
+
+结合 X 开源推荐算法做内容和互动实验，记录结果。
+
+```sh
+npx skills add LIghtJUNction/x-quality-growth
+```
+
 
 ### Linux 和缺氧
 
-| 技能 | 用来做什么 |
-| --- | --- |
-| [linux-windows-apps](https://github.com/LIghtJUNction/linux-windows-apps/blob/main/SKILL.md) | 在 Linux 上通过 Wine 或 Bottles 安装和运行 Windows 应用。 |
-| [agentic-bees](https://github.com/LIghtJUNction/agentic-bees/blob/main/skills/agentic-bees/SKILL.md) | 按限定范围扫描 Btrfs 重复数据，再执行授权的去重。 |
-| [mechrevo-verification](https://github.com/LIghtJUNction/mechrevo-drivers/blob/main/docs/skills/mechrevo-verification/SKILL.md) | 核验机械革命 Linux 驱动的构建、安装和硬件表现。 |
-| [oni-skills](https://github.com/LIghtJUNction/oni-skills/blob/main/SKILL.md) | 查《缺氧》的游戏机制、工程方案和阶段决策。 |
+#### [linux-windows-apps](https://github.com/LIghtJUNction/linux-windows-apps/blob/main/SKILL.md)
+
+在 Linux 上通过 Wine 或 Bottles 安装和运行 Windows 应用。
+
+```sh
+npx skills add LIghtJUNction/linux-windows-apps
+```
+
+#### [agentic-bees](https://github.com/LIghtJUNction/agentic-bees/blob/main/skills/agentic-bees/SKILL.md)
+
+按限定范围扫描 Btrfs 重复数据，再执行授权的去重。
+
+```sh
+npx skills add https://github.com/LIghtJUNction/agentic-bees/tree/main/skills/agentic-bees
+```
+
+当前源文件的 YAML 头部格式有误，缺少有效的 `description` 字段，安装器可能无法识别；上面的源地址正确，但需要原仓库修复后才能正常使用。
+
+#### [mechrevo-verification](https://github.com/LIghtJUNction/mechrevo-drivers/blob/main/docs/skills/mechrevo-verification/SKILL.md)
+
+核验机械革命 Linux 驱动的构建、安装和硬件表现。
+
+```sh
+npx skills add https://github.com/LIghtJUNction/mechrevo-drivers/tree/main/docs/skills/mechrevo-verification
+```
+
+#### [oni-skills](https://github.com/LIghtJUNction/oni-skills/blob/main/SKILL.md)
+
+查《缺氧》的游戏机制、工程方案和阶段决策。
+
+```sh
+npx skills add LIghtJUNction/oni-skills
+```
+
 
 ### 已归档
 
-| 技能 | 用来做什么 |
-| --- | --- |
-| [software2prompt](https://github.com/LIghtJUNction/software2prompt/blob/main/SKILL.md)（已归档） | 从源码、二进制或运行实例提取软件重建提示词，并设计对比验证。 |
+#### [software2prompt](https://github.com/LIghtJUNction/software2prompt/blob/main/SKILL.md)（已归档）
+
+从源码、二进制或运行实例提取软件重建提示词，并设计对比验证。
+
+```sh
+npx skills add LIghtJUNction/software2prompt
+```
 <!-- highlights:end -->
 
 ## 怎么用
 
-打开技能链接，把所在目录连同 `scripts/`、`references/` 等配套文件一起交给你的 Agent，按原仓库说明安装。不要只复制一个 `SKILL.md`，有些技能还需要命令行工具、模型或游戏环境。
+上面每个技能都有独立的安装命令，代码块右上角可以直接复制。需要 Node.js 22.20 或更新版本；命令格式见 [skills 官方说明](https://github.com/vercel-labs/skills/blob/main/docs/commands.md)。
 
-例如，下载 `anime-reaction-gif` 仓库后，把其中的 `skills/anime-reaction-gif/` 整个目录放进 Agent 的技能目录。具体依赖见原仓库。
+默认安装到当前项目，运行后选择要使用的 Agent。想全局安装到 Codex，并跳过交互选择，可以这样写：
+
+```sh
+npx skills add LIghtJUNction/draw-project-meme -g -a codex -y
+```
+
+想先查看仓库里有哪些技能：
+
+```sh
+npx skills add LIghtJUNction/used-car-video-copywriting-skill --list
+```
+
+安装器会处理技能目录和配套文件；技能依赖的外部程序、模型和游戏环境仍按原仓库说明准备。本仓库只做索引，安装命令指向各自的源仓库。
 
 ## 完整目录
 
@@ -80,4 +197,20 @@ python3 scripts/catalog.py render
 python3 scripts/catalog.py check
 ```
 
-检查在本地运行，不配置自动 CI。
+## 自动检查和更新
+
+[![Catalog](https://github.com/LIghtJUNction/skills/actions/workflows/catalog.yml/badge.svg)](https://github.com/LIghtJUNction/skills/actions/workflows/catalog.yml)
+
+- 推送到 `main` 或提交 PR 时，CI 检查目录结构、安装命令生成和文档一致性。
+- 每天台北时间 **10:23**（UTC 02:23）计划扫描公开仓库，检查通过后自动提交目录变化。GitHub 的定时任务可能延迟。
+- 也可以在 [Actions → Catalog](https://github.com/LIghtJUNction/skills/actions/workflows/catalog.yml) 点击 **Run workflow** 手动更新。
+- 没有变化就不产生提交；扫描失败或结果不完整时保留原目录，并在 Actions 中报错。
+
+自动任务只维护目录，不安装或执行源仓库中的技能。安装命令按官方支持的源地址生成，不等同于每个源技能均已通过安装实测。
+
+本地可以运行与 CI 相同的检查：
+
+```sh
+python3 -m unittest discover -s tests -v
+python3 scripts/catalog.py check
+```
