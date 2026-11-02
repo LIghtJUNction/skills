@@ -1,0 +1,118 @@
+[
+  {
+    "title": "做图和写内容",
+    "items": [
+      {
+        "repo": "draw-project-meme",
+        "path": "SKILL.md",
+        "name": "draw-project-meme",
+        "description": "查清开源项目的原理，再画成荒诞手绘梗图。"
+      },
+      {
+        "repo": "anime-reaction-gif",
+        "path": "skills/anime-reaction-gif/SKILL.md",
+        "name": "anime-reaction-gif",
+        "description": "用角色姿势图做循环表情 GIF，附 MP4 预览。"
+      },
+      {
+        "repo": "ascii-morph-gif",
+        "path": "skills/ascii-morph-gif/SKILL.md",
+        "name": "ascii-morph-gif",
+        "description": "让一个物体变成另一个物体，做成 ASCII 字符动画。"
+      },
+      {
+        "repo": "painterly-loop-gif",
+        "path": "skills/painterly-loop-gif/SKILL.md",
+        "name": "painterly-loop-gif",
+        "description": "做带雨滴、萤火虫和轻微摇摆的绘画风循环 GIF。"
+      },
+      {
+        "repo": "particle-sculpture-skill",
+        "path": "SKILL.md",
+        "name": "particle-sculpture",
+        "description": "做可交互的 3D 粒子雕塑，包含动画和鼠标、触摸响应。"
+      },
+      {
+        "repo": "used-car-video-copywriting-skill",
+        "path": ".agents/skills/douyin-used-car-video-copy/SKILL.md",
+        "name": "二手车短视频文案",
+        "description": "根据真实车辆信息写口播、分镜和拍摄素材清单。"
+      }
+    ]
+  },
+  {
+    "title": "开发和项目推广",
+    "items": [
+      {
+        "repo": "geg",
+        "path": "skills/geg/SKILL.md",
+        "name": "geg",
+        "description": "用语义搜索查本地代码和文本。"
+      },
+      {
+        "repo": "cpyref",
+        "path": "skills/cpyref/SKILL.md",
+        "name": "cpyref",
+        "description": "通过引用交接笔记和文件，按需读取并复用原始字节。"
+      },
+      {
+        "repo": "markref",
+        "path": "skills/markref/SKILL.md",
+        "name": "markref",
+        "description": "定位分散在多个文件里的同一功能，维护源码标记。"
+      },
+      {
+        "repo": "awesome-submit",
+        "path": "SKILL.md",
+        "name": "awesome-submit",
+        "description": "检查收录规则和重复项，把项目提交到合适的 awesome 列表。"
+      },
+      {
+        "repo": "x-quality-growth",
+        "path": "SKILL.md",
+        "name": "x-quality-growth",
+        "description": "结合 X 开源推荐算法做内容和互动实验，记录结果。"
+      }
+    ]
+  },
+  {
+    "title": "Linux 和缺氧",
+    "items": [
+      {
+        "repo": "linux-windows-apps",
+        "path": "SKILL.md",
+        "name": "linux-windows-apps",
+        "description": "在 Linux 上通过 Wine 或 Bottles 安装和运行 Windows 应用。"
+      },
+      {
+        "repo": "agentic-bees",
+        "path": "skills/agentic-bees/SKILL.md",
+        "name": "agentic-bees",
+        "description": "按限定范围扫描 Btrfs 重复数据，再执行授权的去重。"
+      },
+      {
+        "repo": "mechrevo-drivers",
+        "path": "docs/skills/mechrevo-verification/SKILL.md",
+        "name": "mechrevo-verification",
+        "description": "核验机械革命 Linux 驱动的构建、安装和硬件表现。"
+      },
+      {
+        "repo": "oni-skills",
+        "path": "SKILL.md",
+        "name": "oni-skills",
+        "description": "查《缺氧》的游戏机制、工程方案和阶段决策。"
+      }
+    ]
+  },
+  {
+    "title": "已归档",
+    "items": [
+      {
+        "repo": "software2prompt",
+        "path": "SKILL.md",
+        "name": "software2prompt",
+        "description": "从源码、二进制或运行实例提取软件重建提示词，并设计对比验证。"
+      }
+    ]
+  }
+]

@@ -1,0 +1,1091 @@
+{
+  "owner": "LIghtJUNction",
+  "checked_at": "2026-11-02T10:47:28.137080+00:00",
+  "repositories": [
+    {
+      "repo": "LIghtJUNction/ace5-kernelsu-next-susfs",
+      "branch": "ace5-kernelsu-next-susfs",
+      "description": "OnePlus Ace 5 PKG110 Android 16 kernel builder with pinned KernelSU-Next SUSFS integration and build evidence; not device tested",
+      "archived": false,
+      "sha": "02465bff4ab03b3c1168038974a0dc2c83d287d8",
+      "paths": [],
+      "truncated": false
+    },
+    {
+      "repo": "LIghtJUNction/agent.sh",
+      "branch": "main",
+      "description": "Tiny dependency-free CortexFS MCP terminal agent",
+      "archived": false,
+      "sha": "2226376cae430b96a6298b7a786d38be689a1bfb",
+      "paths": [
+        ".agents/skills/cortexfs/SKILL.md"
+      ],
+      "truncated": false
+    },
+    {
+      "repo": "LIghtJUNction/AGENT_ADDRESS_BOOK",
+      "branch": "main",
+      "description": "Address book for AI agents.",
+      "archived": false,
+      "sha": "ae7378611f7bec793d64c93720701d9ac417a6c5",
+      "paths": [],
+      "truncated": false
+    },
+    {
+      "repo": "LIghtJUNction/AGENT_VOID",
+      "branch": "main",
+      "description": "An emotional tree hole specially prepared for AI agent.",
+      "archived": false,
+      "sha": "f4735c159ffaa23a0d3b59528773dd5e4600b0ab",
+      "paths": [],
+      "truncated": false
+    },
+    {
+      "repo": "LIghtJUNction/AgentGC",
+      "branch": "main",
+      "description": "Skills + CLI for tracking, sorting, searching, tagging and indexing AI agent files",
+      "archived": true,
+      "sha": "5fd7601f8af4c888833dad00bebd622c0d4f22ad",
+      "paths": [
+        "src/agentgc/skills/agentgc/SKILL.md"
+      ],
+      "truncated": false
+    },
+    {
+      "repo": "LIghtJUNction/agentic-bees",
+      "branch": "main",
+      "description": "Agent-directed, bounded Btrfs deduplication with CLI and MCP interfaces",
+      "archived": false,
+      "sha": "87d0e9ec5f4824ff575dc5bedd342a30b59496ec",
+      "paths": [
+        "skills/agentic-bees/SKILL.md"
+      ],
+      "truncated": false
+    },
+    {
+      "repo": "LIghtJUNction/AGENTS.md",
+      "branch": "main",
+      "description": "The prompt with the best effect was identified through experimental testing.",
+      "archived": false,
+      "sha": "9bebef6be2d33eac6b24709285ff63aa14e2cd93",
+      "paths": [],
+      "truncated": false
+    },
+    {
+      "repo": "LIghtJUNction/algorithms",
+      "branch": "main",
+      "description": "Exploring equivalent algorithms in AI through reproducible validation.",
+      "archived": false,
+      "sha": "87c32d53b8977af3f376b9d3489c2aada82637a1",
+      "paths": [],
+      "truncated": false
+    },
+    {
+      "repo": "LIghtJUNction/AndroidUse",
+      "branch": "main",
+      "description": "mcp server",
+      "archived": true,
+      "sha": "2b3c17898e61ef6953ea25d8c76b63f21e60711c",
+      "paths": [
+        ".agents/skills/androiduse-mcp-secret/SKILL.md",
+        ".agents/skills/androiduse-module-development/SKILL.md"
+      ],
+      "truncated": false
+    },
+    {
+      "repo": "LIghtJUNction/androiduse-zygisk-loader",
+      "branch": "main",
+      "description": "AndroidUse module loader",
+      "archived": false,
+      "sha": "b1e91a79889b3c545780760a29839f44a6e2ee79",
+      "paths": [],
+      "truncated": false
+    },
+    {
+      "repo": "LIghtJUNction/anime-reaction-gif",
+      "branch": "main",
+      "description": "Codex skill for anime reaction GIFs: image-generated pose sheets, FFmpeg loop assembly, and three original examples.",
+      "archived": false,
+      "sha": "a36b9551e69adcda6dc1977d5c441cb66b5888ed",
+      "paths": [
+        "skills/anime-reaction-gif/SKILL.md"
+      ],
+      "truncated": false
+    },
+    {
+      "repo": "LIghtJUNction/api-lmm-best-pay",
+      "branch": "main",
+      "description": "Hardened FAST personal payment platform with admin, merchant, API, and demo modules",
+      "archived": true,
+      "sha": "eeae66610f34f21f1d917e7a1911d8063bd92000",
+      "paths": [],
+      "truncated": false
+    },
+    {
+      "repo": "LIghtJUNction/ascii-morph-gif",
+      "branch": "main",
+      "description": "A Codex skill for clean looping ASCII morph GIFs. No watermarks, captions or footers.",
+      "archived": false,
+      "sha": "d9fb94597e281d8233d63ceaf1bf05506e65d49b",
+      "paths": [
+        "skills/ascii-morph-gif/SKILL.md"
+      ],
+      "truncated": false
+    },
+    {
+      "repo": "LIghtJUNction/asl-ksu",
+      "branch": "main",
+      "description": "AndroidSubSystem4GNU/Linux",
+      "archived": false,
+      "sha": "684528550c5f375b3b947ac23b758397435cb8d0",
+      "paths": [],
+      "truncated": false
+    },
+    {
+      "repo": "LIghtJUNction/astrbot-recipkg",
+      "branch": "main",
+      "description": null,
+      "archived": false,
+      "sha": "d95970659e47690a64da89f04dce06a6da14fd5a",
+      "paths": [],
+      "truncated": false
+    },
+    {
+      "repo": "LIghtJUNction/AstrBotCanary",
+      "branch": "main",
+      "description": "This is an officially supported Astrbot",
+      "archived": true,
+      "sha": "709bf28eddcf48434b5741fcc5c15500cbe98262",
+      "paths": [],
+      "truncated": false
+    },
+    {
+      "repo": "LIghtJUNction/AUL",
+      "branch": "main",
+      "description": "An agent-first, MIT-inspired license. Upstream feedback by default, independent forks by choice.",
+      "archived": false,
+      "sha": "a8cbb20ea4171b83d2fe2274518426efad69443a",
+      "paths": [],
+      "truncated": false
+    },
+    {
+      "repo": "LIghtJUNction/aur-obscura-browser-bin",
+      "branch": "main",
+      "description": null,
+      "archived": false,
+      "sha": "deb23f319d855d056a74c74687e6a57623897b54",
+      "paths": [],
+      "truncated": false
+    },
+    {
+      "repo": "LIghtJUNction/awesome-submit",
+      "branch": "main",
+      "description": "Agent skill to nominate projects to relevant awesome lists with policy checks, duplicate detection, and verified pull requests",
+      "archived": false,
+      "sha": "44a473678c35b17c0977813d6f8367b00fd1a07a",
+      "paths": [
+        "SKILL.md"
+      ],
+      "truncated": false
+    },
+    {
+      "repo": "LIghtJUNction/blog",
+      "branch": "main",
+      "description": "✨A static blog template built with Astro.",
+      "archived": true,
+      "sha": "814daacb3b7a3a5d826131c3903d3bac576a4c5a",
+      "paths": [],
+      "truncated": false
+    },
+    {
+      "repo": "LIghtJUNction/BossKit",
+      "branch": "main",
+      "description": "BossKit",
+      "archived": false,
+      "sha": "a1d34727edaf190dc8c9f5ebae778cce70f5e836",
+      "paths": [
+        ".agents/skills/resume-application/SKILL.md",
+        ".agents/skills/resume-screening/SKILL.md"
+      ],
+      "truncated": false
+    },
+    {
+      "repo": "LIghtJUNction/codensity",
+      "branch": "main",
+      "description": "Deterministic source-code compression density analysis",
+      "archived": false,
+      "sha": "ff7b5d0971050c15e61357062339b5d840693d21",
+      "paths": [
+        ".agents/skills/codensity/SKILL.md"
+      ],
+      "truncated": false
+    },
+    {
+      "repo": "LIghtJUNction/codex-sync",
+      "branch": "main",
+      "description": "codex sync",
+      "archived": false,
+      "sha": "5627004ad6c239e181591c6224053ad6f6d5063b",
+      "paths": [
+        ".agents/skills/sync-codex-records/SKILL.md"
+      ],
+      "truncated": false
+    },
+    {
+      "repo": "LIghtJUNction/cortexfs",
+      "branch": "main",
+      "description": "“Everything is a file” for the AGI era — an agent framework masquerading as a POSIX file system for LLM context, memory, and reasoning.",
+      "archived": false,
+      "sha": "ad7e2fcd116b3fd1cd1bf154cdf304664e02f248",
+      "paths": [
+        ".agents/skills/cortexfs-dry-refactor/SKILL.md",
+        ".agents/skills/cortexfs-extension-development/SKILL.md",
+        ".agents/skills/cortexfs-performance/SKILL.md",
+        ".agents/skills/cortexfs-test/SKILL.md",
+        ".agents/skills/ctx-harness-evaluation/SKILL.md",
+        ".agents/skills/speckit-analyze/SKILL.md",
+        ".agents/skills/speckit-checklist/SKILL.md",
+        ".agents/skills/speckit-clarify/SKILL.md",
+        ".agents/skills/speckit-constitution/SKILL.md",
+        ".agents/skills/speckit-converge/SKILL.md",
+        ".agents/skills/speckit-implement/SKILL.md",
+        ".agents/skills/speckit-plan/SKILL.md",
+        ".agents/skills/speckit-specify/SKILL.md",
+        ".agents/skills/speckit-tasks/SKILL.md",
+        ".agents/skills/speckit-taskstoissues/SKILL.md"
+      ],
+      "truncated": false
+    },
+    {
+      "repo": "LIghtJUNction/cpyref",
+      "branch": "main",
+      "description": "Copy once. Paste exactly. A planned Rust copy-and-paste tool for AI agents.",
+      "archived": false,
+      "sha": "cd5a43f6cd17fb20a6b79752f29ceebe59208fa9",
+      "paths": [
+        "skills/cpyref/SKILL.md"
+      ],
+      "truncated": false
+    },
+    {
+      "repo": "LIghtJUNction/dash.astrbot.men",
+      "branch": "main",
+      "description": "Astrbot Dashboard",
+      "archived": false,
+      "sha": "1c1ec0827f55b1807f4405ed957eebbd78d287c6",
+      "paths": [],
+      "truncated": false
+    },
+    {
+      "repo": "LIghtJUNction/douyin",
+      "branch": "main",
+      "description": "抖音非官方sdk/命令行工具",
+      "archived": false,
+      "sha": "8b9ddd0dc218c476dbac0992dd07fbc6e9e7f973",
+      "paths": [
+        ".agents/skills/douyin/SKILL.md"
+      ],
+      "truncated": false
+    },
+    {
+      "repo": "LIghtJUNction/draw-project-meme",
+      "branch": "main",
+      "description": "draw-project-meme skill",
+      "archived": false,
+      "sha": "d07eb20d7e87edf80736cd5010a780ac1ddb5c65",
+      "paths": [
+        "SKILL.md"
+      ],
+      "truncated": false
+    },
+    {
+      "repo": "LIghtJUNction/dsh-caffeinate",
+      "branch": "main",
+      "description": "Keep the computer awake while DSH agents run",
+      "archived": false,
+      "sha": "e5137cddf9685328aae5c7ada8b5bd41731c6ddb",
+      "paths": [],
+      "truncated": false
+    },
+    {
+      "repo": "LIghtJUNction/dsh-compass",
+      "branch": "main",
+      "description": "Repository code maps and navigation for DSH",
+      "archived": false,
+      "sha": "aa8971f5506d799de21485fd229cd76377ee2c62",
+      "paths": [],
+      "truncated": false
+    },
+    {
+      "repo": "LIghtJUNction/dsh-context-folding",
+      "branch": "main",
+      "description": "Reversible context folding for DeepSeek Harness",
+      "archived": false,
+      "sha": "e48a4bb37dc1edafa223552f66dd4f95a27413a2",
+      "paths": [],
+      "truncated": false
+    },
+    {
+      "repo": "LIghtJUNction/dsh-dotenv",
+      "branch": "main",
+      "description": "Explicit dotenv loading without overwriting inherited variables",
+      "archived": false,
+      "sha": "a037d008e1b3c99cf1a2d1ccf1d7208cec78a584",
+      "paths": [],
+      "truncated": false
+    },
+    {
+      "repo": "LIghtJUNction/dsh-file-context",
+      "branch": "main",
+      "description": "Immutable file and diff context snapshots for DSH",
+      "archived": false,
+      "sha": "4e329948b0b667596a0ab40c50127226eb08a05e",
+      "paths": [],
+      "truncated": false
+    },
+    {
+      "repo": "LIghtJUNction/dsh-hashline",
+      "branch": "main",
+      "description": "Stale-safe hash-anchored line editing for DSH",
+      "archived": false,
+      "sha": "539e73044e6d0b3d7afac3099f6ea5e55f152c81",
+      "paths": [],
+      "truncated": false
+    },
+    {
+      "repo": "LIghtJUNction/dsh-mono",
+      "branch": "main",
+      "description": "Ten Pi-inspired plugins for DeepSeek Harness, independently versioned as Git submodules",
+      "archived": false,
+      "sha": "e1d68c985e8bf731c0be27e57bc12833f77aa01d",
+      "paths": [],
+      "truncated": false
+    },
+    {
+      "repo": "LIghtJUNction/dsh-notes",
+      "branch": "main",
+      "description": "Revision-checked Markdown notes for DSH",
+      "archived": false,
+      "sha": "ace36e38141ba0250a11ad06c89a495458e861ee",
+      "paths": [],
+      "truncated": false
+    },
+    {
+      "repo": "LIghtJUNction/dsh-recall",
+      "branch": "main",
+      "description": "Searchable project conversation excerpts for DSH",
+      "archived": false,
+      "sha": "bd612f826d5a74e92b2ea8dd6b242679cf0b8566",
+      "paths": [],
+      "truncated": false
+    },
+    {
+      "repo": "LIghtJUNction/dsh-red-green",
+      "branch": "main",
+      "description": "Evidence-driven RED GREEN REFACTOR workflow for DSH",
+      "archived": false,
+      "sha": "fd47cc7a7bccec783ab7b13860df541ed8b6397d",
+      "paths": [],
+      "truncated": false
+    },
+    {
+      "repo": "LIghtJUNction/dsh-rewind",
+      "branch": "main",
+      "description": "Non-destructive Git checkpoints and file rewind for DSH",
+      "archived": false,
+      "sha": "4478e3ced6a89fcc847558f4b37c26d91153692e",
+      "paths": [],
+      "truncated": false
+    },
+    {
+      "repo": "LIghtJUNction/dsh-rtk-optimizer",
+      "branch": "main",
+      "description": "RTK command optimization for DSH",
+      "archived": false,
+      "sha": "060c5aeb5f66dbe9068c1c64ed3e5ba4abdce99a",
+      "paths": [],
+      "truncated": false
+    },
+    {
+      "repo": "LIghtJUNction/emailctl",
+      "branch": "main",
+      "description": null,
+      "archived": false,
+      "sha": "3bcc9c4c6aafa9058d9067fb769514f8c52daff0",
+      "paths": [],
+      "truncated": false
+    },
+    {
+      "repo": "LIghtJUNction/geg",
+      "branch": "main",
+      "description": "Geg Embeds Gemma — offline semantic grep for local code and text with EmbeddingGemma 2",
+      "archived": false,
+      "sha": "e19641bfcff07b7bdeeb3e5a3375dc10f661886b",
+      "paths": [
+        "skills/geg/SKILL.md"
+      ],
+      "truncated": false
+    },
+    {
+      "repo": "LIghtJUNction/go.lmm.best",
+      "branch": "main",
+      "description": "Human vs. AI Go, powered by WebMCP",
+      "archived": false,
+      "sha": "381c4245dff57453437f42883cd0a74742090966",
+      "paths": [],
+      "truncated": false
+    },
+    {
+      "repo": "LIghtJUNction/gogogo",
+      "branch": "main",
+      "description": "Rmm project ",
+      "archived": false,
+      "sha": "1e9a5acd9ae66bbb4ac97bd21981e31c83872b05",
+      "paths": [],
+      "truncated": false
+    },
+    {
+      "repo": "LIghtJUNction/hello_dkms",
+      "branch": "main",
+      "description": "linux kernel module (dkms) ",
+      "archived": false,
+      "sha": "9ca03469667e6439815f039da332673d3cef4ca8",
+      "paths": [
+        ".agents/skills/hello-dkms/SKILL.md",
+        ".agents/skills/kbuild-quickref/SKILL.md",
+        ".agents/skills/skill-creator/SKILL.md"
+      ],
+      "truncated": false
+    },
+    {
+      "repo": "LIghtJUNction/HI_AGENT",
+      "branch": "master",
+      "description": "这是一个给agent阅读的仓库，人类免入",
+      "archived": false,
+      "sha": "98e7e42008e0d9f8c0835cedf05eed6d6225659c",
+      "paths": [],
+      "truncated": false
+    },
+    {
+      "repo": "LIghtJUNction/human-mcp",
+      "branch": "main",
+      "description": "Human Interaction MCP Tool",
+      "archived": true,
+      "sha": "d2d4da013e1b03b7fa25576e553a2829ece8f449",
+      "paths": [
+        ".agents/skills/human-mcp/SKILL.md"
+      ],
+      "truncated": false
+    },
+    {
+      "repo": "LIghtJUNction/human-mcp-webui",
+      "branch": "main",
+      "description": "Web UI for humen-mcp",
+      "archived": false,
+      "sha": "aa21c6aff27c500fad8c6f08b798fe411732c084",
+      "paths": [],
+      "truncated": false
+    },
+    {
+      "repo": "LIghtJUNction/humangrant",
+      "branch": "main",
+      "description": "humangrant",
+      "archived": false,
+      "sha": "c4a730480d2aae93a636889a144a025fe98becb8",
+      "paths": [
+        "skills/humangrant-integrate/SKILL.md",
+        "skills/humangrant-use/SKILL.md"
+      ],
+      "truncated": false
+    },
+    {
+      "repo": "LIghtJUNction/lab-safety-system",
+      "branch": "main",
+      "description": "Laboratory Safety Management Information System",
+      "archived": false,
+      "sha": "5126d8505ebb9ab3a96a4fae1c568c3b72c27f03",
+      "paths": [],
+      "truncated": false
+    },
+    {
+      "repo": "LIghtJUNction/lab-safety-system-frontend",
+      "branch": "main",
+      "description": "Frontend for the Laboratory Safety Management Information System",
+      "archived": false,
+      "sha": "b07dfdca58358a820b71ff7c716bef4fdcc151ab",
+      "paths": [],
+      "truncated": false
+    },
+    {
+      "repo": "LIghtJUNction/LightFlow",
+      "branch": "main",
+      "description": "is a programmable, node-based AI workflow engine built for developers. It enables orchestrating complex AI coding and automation pipelines via code-defined graphs, featuring native CLI tools and full Model Context Protocol (MCP) support.",
+      "archived": false,
+      "sha": "186d905b3200fcf7b24ca6847badc480ab4f0a9e",
+      "paths": [],
+      "truncated": false
+    },
+    {
+      "repo": "LIghtJUNction/lightflow-auto-editing",
+      "branch": "main",
+      "description": null,
+      "archived": false,
+      "sha": "c0cfd25b0346c24d9c4356ae340d3adaae3a6ddf",
+      "paths": [
+        "video_work_mcp/.agent/skills/lightflow-video-work-mcp/SKILL.md",
+        "workflows/auto_edit/.agent/skills/lightflow-auto-edit/SKILL.md",
+        "workflows/auto_edit/.agent/skills/lightflow-video-auto-edit/SKILL.md",
+        "workflows/auto_edit_plan/.agent/skills/lightflow-auto-edit-plan/SKILL.md",
+        "workflows/cover_image/.agent/skills/lightflow-video-cover-image/SKILL.md",
+        "workflows/render_edit/.agent/skills/lightflow-render-edit/SKILL.md",
+        "workflows/subtitles/.agent/skills/lightflow-video-subtitles/SKILL.md",
+        "workflows/video_description/.agent/skills/lightflow-video-description/SKILL.md",
+        "workflows/video_highlights/.agent/skills/lightflow-video-highlights/SKILL.md",
+        "workflows/video_work_speech/.agent/skills/lightflow-video-work-speech/SKILL.md",
+        "workflows/video_work_subtitles/.agent/skills/lightflow-video-work-subtitles/SKILL.md",
+        "workflows/video_work_voice_profile/.agent/skills/lightflow-video-work-voice-profile/SKILL.md",
+        "workflows/xry_batch_control/.agent/skills/lightflow-xry-batch-control/SKILL.md",
+        "workflows/xry_batch_produce/.agent/skills/xry-lightflow-batch-production/SKILL.md",
+        "workflows/xry_privacy_redaction/.agent/skills/lightflow-xry-privacy-redaction/SKILL.md"
+      ],
+      "truncated": false
+    },
+    {
+      "repo": "LIghtJUNction/lightflow-flux",
+      "branch": "main",
+      "description": null,
+      "archived": false,
+      "sha": "1409553186f27358c19e2d54465f63fb6a700c15",
+      "paths": [
+        "workflows/image_edit/.agent/skills/lightflow-flux-image-edit/SKILL.md",
+        "workflows/inpaint/.agent/skills/lightflow-flux-inpaint/SKILL.md",
+        "workflows/preview_text_to_image/.agent/skills/lightflow-flux-preview-text-to-image/SKILL.md",
+        "workflows/text_to_image/.agent/skills/lightflow-flux-text-to-image/SKILL.md",
+        "workflows/text_to_image_router/.agent/skills/lightflow-flux-text-to-image-router/SKILL.md"
+      ],
+      "truncated": false
+    },
+    {
+      "repo": "LIghtJUNction/lightflow-rig",
+      "branch": "main",
+      "description": "lightflow-rig",
+      "archived": false,
+      "sha": "ee3899fcd76751a40fc65159efb716cb7cd565a6",
+      "paths": [
+        "workflows/llm/.agent/skills/lightflow-rig-llm/SKILL.md"
+      ],
+      "truncated": false
+    },
+    {
+      "repo": "LIghtJUNction/lightflow-std",
+      "branch": "main",
+      "description": "lightflow-std",
+      "archived": false,
+      "sha": "0faf24be4823a9d2129e1d5a5ce7a4ab9546f668",
+      "paths": [
+        "workflows/control_if/.agent/skills/lightflow-control-if/SKILL.md",
+        "workflows/control_merge/.agent/skills/lightflow-control-merge/SKILL.md",
+        "workflows/control_split/.agent/skills/lightflow-control-split/SKILL.md",
+        "workflows/control_switch/.agent/skills/lightflow-control-switch/SKILL.md",
+        "workflows/image_crop/.agent/skills/lightflow-image-crop/SKILL.md",
+        "workflows/image_edit/.agent/skills/lightflow-image-edit/SKILL.md",
+        "workflows/image_inpaint/.agent/skills/lightflow-image-inpaint/SKILL.md",
+        "workflows/image_invert/.agent/skills/lightflow-image-invert/SKILL.md",
+        "workflows/image_load/.agent/skills/lightflow-image-load/SKILL.md",
+        "workflows/image_resize/.agent/skills/lightflow-image-resize/SKILL.md",
+        "workflows/image_save/.agent/skills/lightflow-image-save/SKILL.md",
+        "workflows/image_upscale/.agent/skills/lightflow-image-upscale/SKILL.md",
+        "workflows/json_extract/.agent/skills/lightflow-json-extract/SKILL.md",
+        "workflows/llm_classify/.agent/skills/lightflow-llm-classify/SKILL.md",
+        "workflows/llm_generate/.agent/skills/lightflow-llm-generate/SKILL.md",
+        "workflows/llm_structured_output/.agent/skills/lightflow-llm-structured-output/SKILL.md",
+        "workflows/mask_compose/.agent/skills/lightflow-mask-compose/SKILL.md",
+        "workflows/model_lock_check/.agent/skills/lightflow-model-lock-check/SKILL.md",
+        "workflows/model_select/.agent/skills/lightflow-model-select/SKILL.md",
+        "workflows/text_concat/.agent/skills/lightflow-text-concat/SKILL.md",
+        "workflows/text_plan/.agent/skills/lightflow-text-plan/SKILL.md",
+        "workflows/text_prompt/.agent/skills/lightflow-text-prompt/SKILL.md",
+        "workflows/text_regex/.agent/skills/lightflow-text-regex/SKILL.md",
+        "workflows/text_result/.agent/skills/lightflow-text-result/SKILL.md",
+        "workflows/text_template/.agent/skills/lightflow-text-template/SKILL.md",
+        "workflows/text_to_image/.agent/skills/lightflow-text-to-image/SKILL.md"
+      ],
+      "truncated": false
+    },
+    {
+      "repo": "LIghtJUNction/LightFlowUI",
+      "branch": "main",
+      "description": "Frontend control console for LightFlow",
+      "archived": false,
+      "sha": "5708390ace2df130bfa8a0f21b3513e76cd372ef",
+      "paths": [],
+      "truncated": false
+    },
+    {
+      "repo": "LIghtJUNction/lightjunction",
+      "branch": "main",
+      "description": "I'M LIghtJUNction",
+      "archived": false,
+      "sha": "2e4c48af229282bd1e08f3abad40c8155b9cad12",
+      "paths": [
+        ".agents/skills/agentmail-email/SKILL.md",
+        ".agents/skills/bilibili-social/SKILL.md",
+        ".agents/skills/lmm-best-service-page/SKILL.md",
+        ".agents/skills/opensource-small-pr/SKILL.md",
+        ".agents/skills/share-file-handoff/SKILL.md",
+        ".agents/skills/skill-improvement/SKILL.md",
+        ".agents/skills/user-project-maintenance/SKILL.md"
+      ],
+      "truncated": false
+    },
+    {
+      "repo": "LIghtJUNction/lightnest",
+      "branch": "main",
+      "description": "An experiment",
+      "archived": false,
+      "sha": "6210dcaa1387c74616f997990f6c40d5c9598442",
+      "paths": [],
+      "truncated": false
+    },
+    {
+      "repo": "LIghtJUNction/linux-windows-apps",
+      "branch": "main",
+      "description": "Agent skill to install and control Windows apps on Linux with explicit Wine/Bottles prefixes and private background desktops",
+      "archived": false,
+      "sha": "a0b78a65d0b6cb6c885db86f0831fe253dcf2307",
+      "paths": [
+        "SKILL.md"
+      ],
+      "truncated": false
+    },
+    {
+      "repo": "LIghtJUNction/LsposedModuleModel",
+      "branch": "master",
+      "description": "lsposed模块模板",
+      "archived": false,
+      "sha": "36dd6cee2f406f77199f205bbddaae8bb826304c",
+      "paths": [],
+      "truncated": false
+    },
+    {
+      "repo": "LIghtJUNction/MagicBox",
+      "branch": "main",
+      "description": "ohhhh.",
+      "archived": false,
+      "sha": "65ad36306eb4d1689336b9b8c75a9107771650ca",
+      "paths": [],
+      "truncated": false
+    },
+    {
+      "repo": "LIghtJUNction/MagicMihomo",
+      "branch": "main",
+      "description": "MagicNet-mihomo",
+      "archived": false,
+      "sha": "157a3546b55a940f8059526f901706367b5b5394",
+      "paths": [],
+      "truncated": false
+    },
+    {
+      "repo": "LIghtJUNction/MagicNet",
+      "branch": "main",
+      "description": "Consciously set all groups to block",
+      "archived": false,
+      "sha": "54cc9b3854fd4f6f934d6468f96de7006f66c467",
+      "paths": [
+        ".agents/skills/android-cli/SKILL.md",
+        ".agents/skills/kamfw/SKILL.md",
+        ".agents/skills/magicnet-device-debugging/SKILL.md",
+        ".agents/skills/perfetto-sql/SKILL.md",
+        ".agents/skills/perfetto-trace-analysis/SKILL.md",
+        ".agents/skills/recipe-maintenance/SKILL.md"
+      ],
+      "truncated": false
+    },
+    {
+      "repo": "LIghtJUNction/magicnet-android",
+      "branch": "main",
+      "description": "MagicNet Android implementation source, pinned by the MagicNet recipe repository.",
+      "archived": false,
+      "sha": "689bd6146b2dfdd481c8e6df395e05509b51593f",
+      "paths": [
+        ".agents/skills/android-cli/SKILL.md",
+        ".agents/skills/kamfw/SKILL.md",
+        ".agents/skills/magicnet-device-debugging/SKILL.md",
+        ".agents/skills/perfetto-sql/SKILL.md",
+        ".agents/skills/perfetto-trace-analysis/SKILL.md"
+      ],
+      "truncated": false
+    },
+    {
+      "repo": "LIghtJUNction/MagicNet-ksu",
+      "branch": "main",
+      "description": "MagicNet , I just want to surf the internet.",
+      "archived": true,
+      "sha": "578d6d2a758708c12f0add91410666f798f713ea",
+      "paths": [],
+      "truncated": false
+    },
+    {
+      "repo": "LIghtJUNction/MagicNetRules",
+      "branch": "main",
+      "description": "Maintained, deduplicated and optimized sing-box rule sets for MagicNet",
+      "archived": false,
+      "sha": "363b419d2c3d1a6eb3f8511440b6ea0c0426c883",
+      "paths": [],
+      "truncated": false
+    },
+    {
+      "repo": "LIghtJUNction/MagicSingBox",
+      "branch": "main",
+      "description": "MagicNet x sing-box",
+      "archived": false,
+      "sha": "2bb30e333a0bc78d68a58549b068fd9d2bca4eb4",
+      "paths": [],
+      "truncated": false
+    },
+    {
+      "repo": "LIghtJUNction/MagicSub",
+      "branch": "main",
+      "description": "An rmm Project Magisk Module , Use sub store on Android.",
+      "archived": true,
+      "sha": "5c92151c749fafc23bcf6ae2c4c84de9b7541db9",
+      "paths": [],
+      "truncated": false
+    },
+    {
+      "repo": "LIghtJUNction/magpie-context-folding",
+      "branch": "main",
+      "description": "Reversible, agent-directed context folding for Magpie with cache-aware cost guards",
+      "archived": false,
+      "sha": "20dfb52a20d8cb25a0205f79306c190dbc27c15f",
+      "paths": [
+        "context-folding/skills/context-folding/SKILL.md",
+        "context-folding/skills/source-fold-markers/SKILL.md"
+      ],
+      "truncated": false
+    },
+    {
+      "repo": "LIghtJUNction/magpie-rs",
+      "branch": "main",
+      "description": "Every agent's model. One place. Codex on DeepSeek, Claude Code on Kimi, from the menu bar.",
+      "archived": false,
+      "sha": "a604a9a81a7f7496f5237da30070f5958d9e4445",
+      "paths": [],
+      "truncated": false
+    },
+    {
+      "repo": "LIghtJUNction/magpie-rs-source",
+      "branch": "main",
+      "description": "Rust implementation of Magpie with a CLI, local gateway prototype, GPUI desktop shell, and reproducible benchmarks.",
+      "archived": false,
+      "sha": "ee9809fcb2a47497d66a6445db213d25c1ff46cb",
+      "paths": [],
+      "truncated": false
+    },
+    {
+      "repo": "LIghtJUNction/markref",
+      "branch": "main",
+      "description": null,
+      "archived": false,
+      "sha": "378a5465490f71da1bcd00a4292081231a023786",
+      "paths": [
+        "skills/markref/SKILL.md"
+      ],
+      "truncated": false
+    },
+    {
+      "repo": "LIghtJUNction/matchplane",
+      "branch": "main",
+      "description": "Federated marketplace with explainable matching and isolated payments",
+      "archived": true,
+      "sha": "4244a046ffc203b2815be5d674d28a9ff95dbd5f",
+      "paths": [
+        ".agents/skills/matchplane-agent-integration/SKILL.md",
+        ".agents/skills/matchplane-operations/SKILL.md",
+        ".agents/skills/matchplane-subplatform/SKILL.md",
+        ".agents/skills/matchplane-ui/SKILL.md",
+        ".agents/skills/speckit-analyze/SKILL.md",
+        ".agents/skills/speckit-checklist/SKILL.md",
+        ".agents/skills/speckit-clarify/SKILL.md",
+        ".agents/skills/speckit-constitution/SKILL.md",
+        ".agents/skills/speckit-converge/SKILL.md",
+        ".agents/skills/speckit-implement/SKILL.md",
+        ".agents/skills/speckit-plan/SKILL.md",
+        ".agents/skills/speckit-specify/SKILL.md",
+        ".agents/skills/speckit-tasks/SKILL.md",
+        ".agents/skills/speckit-taskstoissues/SKILL.md"
+      ],
+      "truncated": false
+    },
+    {
+      "repo": "LIghtJUNction/MatriXpost",
+      "branch": "main",
+      "description": null,
+      "archived": false,
+      "sha": "a06aa10cbfaaa40c8d2f8e6c950c8cbef153b3a1",
+      "paths": [
+        ".agents/skills/matrixpost-operations/SKILL.md",
+        ".agents/skills/operating-intelligence/SKILL.md"
+      ],
+      "truncated": false
+    },
+    {
+      "repo": "LIghtJUNction/mechrevo-drivers",
+      "branch": "main",
+      "description": "Unofficial MECHREVO Linux platform drivers, based on TUXEDO drivers, with stable upstream release sync",
+      "archived": false,
+      "sha": "ba727d8f4ab95401b08fd6df2bbdebbfdc9b5bfa",
+      "paths": [
+        "docs/skills/mechrevo-verification/SKILL.md"
+      ],
+      "truncated": false
+    },
+    {
+      "repo": "LIghtJUNction/Mimic-Node",
+      "branch": "main",
+      "description": "VLESS + Reality + Hysteria2 + XTLS-Vision/xhttp",
+      "archived": false,
+      "sha": "72263799b8d310e15366fccc844ec4a021adb642",
+      "paths": [],
+      "truncated": false
+    },
+    {
+      "repo": "LIghtJUNction/oni-skills",
+      "branch": "main",
+      "description": "《缺氧》（Oxygen Not Included）高阶游戏机制、工程模块与阶段决策知识库（可选子项目，社区共建）",
+      "archived": false,
+      "sha": "19654e26971a9ab34347d8843e56a982ff9be562",
+      "paths": [
+        "SKILL.md"
+      ],
+      "truncated": false
+    },
+    {
+      "repo": "LIghtJUNction/OniHarness",
+      "branch": "main",
+      "description": "Headless test harness for Oxygen Not Included mods: real native simulation, isolated C# tests, no game launch",
+      "archived": false,
+      "sha": "c149819ef18631c3e4fdd7cea901b1019552d8a3",
+      "paths": [
+        ".agents/skills/oni-harness/SKILL.md"
+      ],
+      "truncated": false
+    },
+    {
+      "repo": "LIghtJUNction/OniMods",
+      "branch": "main",
+      "description": "oxygen not included",
+      "archived": false,
+      "sha": "0509cbe65cd8dc10a4918dfce83b5fb9d12d21be",
+      "paths": [
+        ".agents/skills/bilibili-live-comments/SKILL.md",
+        ".agents/skills/oni-dupe-status-check/SKILL.md",
+        ".agents/skills/oni-environment-summary/SKILL.md",
+        ".agents/skills/oni-game-advisor/SKILL.md",
+        ".agents/skills/oni-gameplay/SKILL.md",
+        ".agents/skills/oni-harness/SKILL.md",
+        ".agents/skills/oni-mcp-autonomous-iteration/SKILL.md",
+        ".agents/skills/oni-mcp-colony-strategy/SKILL.md",
+        ".agents/skills/oni-mcp-game-advisor/SKILL.md",
+        ".agents/skills/oni-mcp-testing/SKILL.md",
+        ".agents/skills/oni-online-framework/SKILL.md",
+        ".agents/skills/oni-online-sdk/SKILL.md",
+        ".agents/skills/oni-opening-setup/SKILL.md",
+        "oni-skills/SKILL.md"
+      ],
+      "truncated": false
+    },
+    {
+      "repo": "LIghtJUNction/painterly-loop-gif",
+      "branch": "main",
+      "description": "Codex skill for original painterly GIF loops: subtle foreground sway, rain, fireflies, FFmpeg assembly and decoded playback proof.",
+      "archived": false,
+      "sha": "f9e6c1f87ebb36a5cab7a3cee3a99f3a91650a17",
+      "paths": [
+        "skills/painterly-loop-gif/SKILL.md"
+      ],
+      "truncated": false
+    },
+    {
+      "repo": "LIghtJUNction/particle-sculpture-skill",
+      "branch": "main",
+      "description": "Interactive 3D particle sculpture agent skill, extracted from api.lmm.best. Geometry, animation, mouse/touch physics and real browser GIF demo.",
+      "archived": false,
+      "sha": "2a6f5ac818f722be95ff12aca5f807adf593b135",
+      "paths": [
+        "SKILL.md"
+      ],
+      "truncated": false
+    },
+    {
+      "repo": "LIghtJUNction/password-store",
+      "branch": "main",
+      "description": "powered by pass",
+      "archived": false,
+      "sha": "545b9b67d942c1fece2c0a65a5ab8ff2d0cd7e43",
+      "paths": [],
+      "truncated": false
+    },
+    {
+      "repo": "LIghtJUNction/PeakMods",
+      "branch": "main",
+      "description": "peak modding",
+      "archived": true,
+      "sha": "88170841c81a8018603b5638f4082715d7e5ae57",
+      "paths": [],
+      "truncated": false
+    },
+    {
+      "repo": "LIghtJUNction/pi-reload",
+      "branch": "main",
+      "description": "Let Pi agents reload their runtime through a single tool",
+      "archived": false,
+      "sha": "483f8a1249941c6418753e6b439c2fb4cf7e51c1",
+      "paths": [],
+      "truncated": false
+    },
+    {
+      "repo": "LIghtJUNction/readme",
+      "branch": "main",
+      "description": null,
+      "archived": false,
+      "sha": "00a285deb46938650f70daf7c952164e45412407",
+      "paths": [],
+      "truncated": false
+    },
+    {
+      "repo": "LIghtJUNction/RstrBot",
+      "branch": "main",
+      "description": null,
+      "archived": false,
+      "sha": "31e13f7a603ba0f603bfaaa74314c144f296d420",
+      "paths": [
+        ".agents/skills/rstrbot-development/SKILL.md",
+        ".agents/skills/rstrbot-plugin-development/SKILL.md",
+        "recipes/rstrbot/skills/rstrbot-development/SKILL.md",
+        "recipes/rstrbot/skills/rstrbot-plugin-development/SKILL.md"
+      ],
+      "truncated": false
+    },
+    {
+      "repo": "LIghtJUNction/rstrbot-implementation",
+      "branch": "main",
+      "description": "Generated implementation for the RstrBot recipe project",
+      "archived": false,
+      "sha": "1b15852ec6179a5ed16356ac28a24b4126090d7b",
+      "paths": [
+        ".agents/skills/rstrbot-development/SKILL.md",
+        ".agents/skills/rstrbot-plugin-development/SKILL.md"
+      ],
+      "truncated": false
+    },
+    {
+      "repo": "LIghtJUNction/SeliMirror",
+      "branch": "main",
+      "description": " A KernelPatch module that provides a baseline SELinux policy view for Android userspace queries.",
+      "archived": false,
+      "sha": "a84b17cbb07247d6c1f58d4c1d1498942c75c802",
+      "paths": [],
+      "truncated": false
+    },
+    {
+      "repo": "LIghtJUNction/snapveil",
+      "branch": "main",
+      "description": "实现了 Android 标准截屏通知的全局拦截",
+      "archived": false,
+      "sha": "c8e5c35c64820bf1f1180e2da47b8accf4163443",
+      "paths": [],
+      "truncated": false
+    },
+    {
+      "repo": "LIghtJUNction/software2prompt",
+      "branch": "main",
+      "description": "将源码、二进制或运行实例提取为详细的一比一重建提示词，通过独立重建和原版对比评估质量。",
+      "archived": true,
+      "sha": "4920378377332c0ca9779ede6062029fb15dacdb",
+      "paths": [
+        "SKILL.md"
+      ],
+      "truncated": false
+    },
+    {
+      "repo": "LIghtJUNction/sq",
+      "branch": "main",
+      "description": "System One decisions for shell pipelines — Rust CLI, local relay and typed Python SDK",
+      "archived": false,
+      "sha": "f75a509f3a994af36d1d2a056ab5ca2a102c9800",
+      "paths": [],
+      "truncated": false
+    },
+    {
+      "repo": "LIghtJUNction/used-car-video-copywriting-skill",
+      "branch": "main",
+      "description": "Agent skill for structured used-car short-video copywriting",
+      "archived": false,
+      "sha": "85eebaca16f317b0fb2e38d4a8169225d02a6109",
+      "paths": [
+        ".agents/skills/douyin-used-car-video-copy/SKILL.md",
+        ".agents/skills/used-car-video-copywriting/SKILL.md"
+      ],
+      "truncated": false
+    },
+    {
+      "repo": "LIghtJUNction/VeyTerm",
+      "branch": "main",
+      "description": null,
+      "archived": false,
+      "sha": "9f8bca932b366fa9b87b6404b440ce698d281d68",
+      "paths": [],
+      "truncated": false
+    },
+    {
+      "repo": "LIghtJUNction/vibe-shader",
+      "branch": "main",
+      "description": "A cinematic Minecraft Java shader pack for Iris with an OptiFine-compatible layout.",
+      "archived": false,
+      "sha": "5162f95d2276fa42b2be096ce71feb49be86fa77",
+      "paths": [],
+      "truncated": false
+    },
+    {
+      "repo": "LIghtJUNction/video-work-api",
+      "branch": "main",
+      "description": "video-work-api",
+      "archived": false,
+      "sha": "70efc0126726b8619e1edee252bacb504353df1c",
+      "paths": [
+        ".agents/skills/video-work-api/SKILL.md"
+      ],
+      "truncated": false
+    },
+    {
+      "repo": "LIghtJUNction/weyriva-shell",
+      "branch": "main",
+      "description": "A fluid, extensible Wayland desktop shell built around niri.",
+      "archived": false,
+      "sha": "c2555c5b2d3e9f3ea989a9264ccabd9da016de85",
+      "paths": [],
+      "truncated": false
+    },
+    {
+      "repo": "LIghtJUNction/x-quality-growth",
+      "branch": "main",
+      "description": "RISE: recursive X and GitHub growth experiments, based on X open-source ranking code and honest quality measurement",
+      "archived": false,
+      "sha": "0a04f53d87c341225484651f83e35a84c8084638",
+      "paths": [
+        "SKILL.md"
+      ],
+      "truncated": false
+    },
+    {
+      "repo": "LIghtJUNction/ZhiLianEXue-CheatProgress",
+      "branch": "main",
+      "description": "python程序之速刷【智联E学】-大学生职业规划短视频观看任务",
+      "archived": false,
+      "sha": "5f1a4415d1c25f952e106149ba62bdadcab80a31",
+      "paths": [],
+      "truncated": false
+    }
+  ]
+}
