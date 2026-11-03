@@ -1,6 +1,6 @@
 {
   "owner": "LIghtJUNction",
-  "checked_at": "2026-11-02T11:00:59.147359+00:00",
+  "checked_at": "2026-11-03T09:39:28.293036+00:00",
   "repositories": [
     {
       "repo": "LIghtJUNction/ace5-kernelsu-next-susfs",
@@ -503,7 +503,7 @@
       "branch": "main",
       "description": "自动更新的 GitHub 项目索引 · Searchable project directory",
       "archived": false,
-      "sha": "35c8d5babd789308dee20a2934aa73cfde94bd8d",
+      "sha": "7f1b35ec46949a9ebef82a14028f56e51afdb52b",
       "paths": [],
       "truncated": false
     },
@@ -690,7 +690,7 @@
       "branch": "main",
       "description": "MagicNet-mihomo",
       "archived": false,
-      "sha": "157a3546b55a940f8059526f901706367b5b5394",
+      "sha": "d00ad4f5bb12860e8071d0d8571bea3799ae3e93",
       "paths": [],
       "truncated": false
     },
@@ -699,7 +699,7 @@
       "branch": "main",
       "description": "Consciously set all groups to block",
       "archived": false,
-      "sha": "54cc9b3854fd4f6f934d6468f96de7006f66c467",
+      "sha": "59c0fa200939b42e6488462b3c5f01f61b9e7ad5",
       "paths": [
         ".agents/skills/android-cli/SKILL.md",
         ".agents/skills/kamfw/SKILL.md",
@@ -715,7 +715,7 @@
       "branch": "main",
       "description": "MagicNet Android implementation source, pinned by the MagicNet recipe repository.",
       "archived": false,
-      "sha": "689bd6146b2dfdd481c8e6df395e05509b51593f",
+      "sha": "d22086d28499ceb25c9f2b7d965e783ded6c286a",
       "paths": [
         ".agents/skills/android-cli/SKILL.md",
         ".agents/skills/kamfw/SKILL.md",
@@ -787,7 +787,7 @@
       "branch": "main",
       "description": "Rust implementation of Magpie with a CLI, local gateway prototype, GPUI desktop shell, and reproducible benchmarks.",
       "archived": false,
-      "sha": "ee9809fcb2a47497d66a6445db213d25c1ff46cb",
+      "sha": "e81e07e69acc4ea71318a1e327db11cdb28e2db7",
       "paths": [],
       "truncated": false
     },
@@ -1081,7 +1081,7 @@
       "branch": "main",
       "description": "RISE: recursive X and GitHub growth experiments, based on X open-source ranking code and honest quality measurement",
       "archived": false,
-      "sha": "0a04f53d87c341225484651f83e35a84c8084638",
+      "sha": "af20412dc29fd71092bfc98af005201a502d2698",
       "paths": [
         "SKILL.md"
       ],
