@@ -2,7 +2,7 @@
 
 [返回首页](README.md)
 
-截至 2026-11-03（UTC），检查了 **100** 个公开非 Fork 仓库，其中 **42** 个仓库有技能，共 **152** 个 `SKILL.md` 文件入口。这是文件入口数量，未按名称或内容去重。汇总仓库本身不计入扫描。
+截至 2026-11-04（UTC），检查了 **100** 个公开非 Fork 仓库，其中 **42** 个仓库有技能，共 **152** 个 `SKILL.md` 文件入口。这是文件入口数量，未按名称或内容去重。汇总仓库本身不计入扫描。
 
 按来源仓库排列；同名入口保留各自路径。技能名称取自目录名，根目录技能用仓库名表示，未解析 frontmatter。
 快照链接固定到本次核对的提交。项目随附技能可能来自第三方，归属与许可请看原仓库。
@@ -325,7 +325,7 @@
 
 | 技能入口 | 仓库内路径 | 核对快照 |
 | --- | --- | --- |
-| [x-quality-growth](https://github.com/LIghtJUNction/x-quality-growth/blob/main/SKILL.md) | `SKILL.md` | [固定版本](https://github.com/LIghtJUNction/x-quality-growth/blob/af20412dc29fd71092bfc98af005201a502d2698/SKILL.md) |
+| [x-quality-growth](https://github.com/LIghtJUNction/x-quality-growth/blob/main/SKILL.md) | `SKILL.md` | [固定版本](https://github.com/LIghtJUNction/x-quality-growth/blob/d8ad0389b696300d6f0d14ea7fcc45832f90c586/SKILL.md) |
 
 ## 已归档仓库
 

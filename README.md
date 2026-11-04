@@ -168,7 +168,7 @@ npx skills add LIghtJUNction/used-car-video-copywriting-skill --list
 ## 完整目录
 
 <!-- stats:start -->
-截至 2026-11-03（UTC），检查了 **100** 个公开非 Fork 仓库，其中 **42** 个仓库有技能，共 **152** 个 `SKILL.md` 文件入口。这是文件入口数量，未按名称或内容去重。汇总仓库本身不计入扫描。
+截至 2026-11-04（UTC），检查了 **100** 个公开非 Fork 仓库，其中 **42** 个仓库有技能，共 **152** 个 `SKILL.md` 文件入口。这是文件入口数量，未按名称或内容去重。汇总仓库本身不计入扫描。
 <!-- stats:end -->
 
 完整路径见 **[CATALOG.md](CATALOG.md)**，机器可读数据见 [data/catalog.json](data/catalog.json)。同名技能可能在多个项目里出现，目录保留来源，不把它们算成不同的原创技能。
