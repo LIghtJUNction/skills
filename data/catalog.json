@@ -1,6 +1,6 @@
 {
   "owner": "LIghtJUNction",
-  "checked_at": "2026-11-05T02:28:07.706505+00:00",
+  "checked_at": "2026-11-06T02:27:40.182026+00:00",
   "repositories": [
     {
       "repo": "LIghtJUNction/ace5-kernelsu-next-susfs",
@@ -503,7 +503,7 @@
       "branch": "main",
       "description": "自动更新的 GitHub 项目索引 · Searchable project directory",
       "archived": false,
-      "sha": "144a48b73602298f690e95345f93ea3aacdfdc0a",
+      "sha": "a7922f93cc1265cf99515d4b2807f3f84755aecf",
       "paths": [],
       "truncated": false
     },
@@ -635,7 +635,7 @@
       "branch": "main",
       "description": "I'M LIghtJUNction",
       "archived": false,
-      "sha": "2e4c48af229282bd1e08f3abad40c8155b9cad12",
+      "sha": "af64fdb76e120610e6ba362db2dbbfd9fabaad12",
       "paths": [
         ".agents/skills/agentmail-email/SKILL.md",
         ".agents/skills/bilibili-social/SKILL.md",
@@ -690,7 +690,7 @@
       "branch": "main",
       "description": "MagicNet-mihomo",
       "archived": false,
-      "sha": "8c74eeffdac97acba4726894351c7224a505421a",
+      "sha": "1da0995c1c2479cefb829276b13f0acd8a862a46",
       "paths": [],
       "truncated": false
     },
@@ -699,7 +699,7 @@
       "branch": "main",
       "description": "Consciously set all groups to block",
       "archived": false,
-      "sha": "59c0fa200939b42e6488462b3c5f01f61b9e7ad5",
+      "sha": "9edd577ffd54b3f644d8ce51810bb7775ef24c7d",
       "paths": [
         ".agents/skills/android-cli/SKILL.md",
         ".agents/skills/kamfw/SKILL.md",
@@ -715,7 +715,7 @@
       "branch": "main",
       "description": "MagicNet Android implementation source, pinned by the MagicNet recipe repository.",
       "archived": false,
-      "sha": "d22086d28499ceb25c9f2b7d965e783ded6c286a",
+      "sha": "cb7f63bc8eb426c8633de70ef03c9f8af0034ef6",
       "paths": [
         ".agents/skills/android-cli/SKILL.md",
         ".agents/skills/kamfw/SKILL.md",
@@ -748,7 +748,7 @@
       "branch": "main",
       "description": "MagicNet x sing-box",
       "archived": false,
-      "sha": "2bb30e333a0bc78d68a58549b068fd9d2bca4eb4",
+      "sha": "6b5f68a261818a4ffda6eb9a11b21eef9b755650",
       "paths": [],
       "truncated": false
     },
@@ -1081,7 +1081,7 @@
       "branch": "main",
       "description": "RISE: recursive X and GitHub growth experiments, based on X open-source ranking code and honest quality measurement",
       "archived": false,
-      "sha": "315a484c38dad3f09f2e6b1067cbc89b58e40523",
+      "sha": "73c8d5769e8700242dd5b9c70d517bfb8500f3bb",
       "paths": [
         "SKILL.md"
       ],

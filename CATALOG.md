@@ -2,7 +2,7 @@
 
 [返回首页](README.md)
 
-截至 2026-11-05（UTC），检查了 **100** 个公开非 Fork 仓库，其中 **42** 个仓库有技能，共 **152** 个 `SKILL.md` 文件入口。这是文件入口数量，未按名称或内容去重。汇总仓库本身不计入扫描。
+截至 2026-11-06（UTC），检查了 **100** 个公开非 Fork 仓库，其中 **42** 个仓库有技能，共 **152** 个 `SKILL.md` 文件入口。这是文件入口数量，未按名称或内容去重。汇总仓库本身不计入扫描。
 
 按来源仓库排列；同名入口保留各自路径。技能名称取自目录名，根目录技能用仓库名表示，未解析 frontmatter。
 快照链接固定到本次核对的提交。项目随附技能可能来自第三方，归属与许可请看原仓库。
@@ -188,13 +188,13 @@
 
 | 技能入口 | 仓库内路径 | 核对快照 |
 | --- | --- | --- |
-| [agentmail-email](https://github.com/LIghtJUNction/lightjunction/blob/main/.agents/skills/agentmail-email/SKILL.md) | `.agents/skills/agentmail-email/SKILL.md` | [固定版本](https://github.com/LIghtJUNction/lightjunction/blob/2e4c48af229282bd1e08f3abad40c8155b9cad12/.agents/skills/agentmail-email/SKILL.md) |
-| [bilibili-social](https://github.com/LIghtJUNction/lightjunction/blob/main/.agents/skills/bilibili-social/SKILL.md) | `.agents/skills/bilibili-social/SKILL.md` | [固定版本](https://github.com/LIghtJUNction/lightjunction/blob/2e4c48af229282bd1e08f3abad40c8155b9cad12/.agents/skills/bilibili-social/SKILL.md) |
-| [lmm-best-service-page](https://github.com/LIghtJUNction/lightjunction/blob/main/.agents/skills/lmm-best-service-page/SKILL.md) | `.agents/skills/lmm-best-service-page/SKILL.md` | [固定版本](https://github.com/LIghtJUNction/lightjunction/blob/2e4c48af229282bd1e08f3abad40c8155b9cad12/.agents/skills/lmm-best-service-page/SKILL.md) |
-| [opensource-small-pr](https://github.com/LIghtJUNction/lightjunction/blob/main/.agents/skills/opensource-small-pr/SKILL.md) | `.agents/skills/opensource-small-pr/SKILL.md` | [固定版本](https://github.com/LIghtJUNction/lightjunction/blob/2e4c48af229282bd1e08f3abad40c8155b9cad12/.agents/skills/opensource-small-pr/SKILL.md) |
-| [share-file-handoff](https://github.com/LIghtJUNction/lightjunction/blob/main/.agents/skills/share-file-handoff/SKILL.md) | `.agents/skills/share-file-handoff/SKILL.md` | [固定版本](https://github.com/LIghtJUNction/lightjunction/blob/2e4c48af229282bd1e08f3abad40c8155b9cad12/.agents/skills/share-file-handoff/SKILL.md) |
-| [skill-improvement](https://github.com/LIghtJUNction/lightjunction/blob/main/.agents/skills/skill-improvement/SKILL.md) | `.agents/skills/skill-improvement/SKILL.md` | [固定版本](https://github.com/LIghtJUNction/lightjunction/blob/2e4c48af229282bd1e08f3abad40c8155b9cad12/.agents/skills/skill-improvement/SKILL.md) |
-| [user-project-maintenance](https://github.com/LIghtJUNction/lightjunction/blob/main/.agents/skills/user-project-maintenance/SKILL.md) | `.agents/skills/user-project-maintenance/SKILL.md` | [固定版本](https://github.com/LIghtJUNction/lightjunction/blob/2e4c48af229282bd1e08f3abad40c8155b9cad12/.agents/skills/user-project-maintenance/SKILL.md) |
+| [agentmail-email](https://github.com/LIghtJUNction/lightjunction/blob/main/.agents/skills/agentmail-email/SKILL.md) | `.agents/skills/agentmail-email/SKILL.md` | [固定版本](https://github.com/LIghtJUNction/lightjunction/blob/af64fdb76e120610e6ba362db2dbbfd9fabaad12/.agents/skills/agentmail-email/SKILL.md) |
+| [bilibili-social](https://github.com/LIghtJUNction/lightjunction/blob/main/.agents/skills/bilibili-social/SKILL.md) | `.agents/skills/bilibili-social/SKILL.md` | [固定版本](https://github.com/LIghtJUNction/lightjunction/blob/af64fdb76e120610e6ba362db2dbbfd9fabaad12/.agents/skills/bilibili-social/SKILL.md) |
+| [lmm-best-service-page](https://github.com/LIghtJUNction/lightjunction/blob/main/.agents/skills/lmm-best-service-page/SKILL.md) | `.agents/skills/lmm-best-service-page/SKILL.md` | [固定版本](https://github.com/LIghtJUNction/lightjunction/blob/af64fdb76e120610e6ba362db2dbbfd9fabaad12/.agents/skills/lmm-best-service-page/SKILL.md) |
+| [opensource-small-pr](https://github.com/LIghtJUNction/lightjunction/blob/main/.agents/skills/opensource-small-pr/SKILL.md) | `.agents/skills/opensource-small-pr/SKILL.md` | [固定版本](https://github.com/LIghtJUNction/lightjunction/blob/af64fdb76e120610e6ba362db2dbbfd9fabaad12/.agents/skills/opensource-small-pr/SKILL.md) |
+| [share-file-handoff](https://github.com/LIghtJUNction/lightjunction/blob/main/.agents/skills/share-file-handoff/SKILL.md) | `.agents/skills/share-file-handoff/SKILL.md` | [固定版本](https://github.com/LIghtJUNction/lightjunction/blob/af64fdb76e120610e6ba362db2dbbfd9fabaad12/.agents/skills/share-file-handoff/SKILL.md) |
+| [skill-improvement](https://github.com/LIghtJUNction/lightjunction/blob/main/.agents/skills/skill-improvement/SKILL.md) | `.agents/skills/skill-improvement/SKILL.md` | [固定版本](https://github.com/LIghtJUNction/lightjunction/blob/af64fdb76e120610e6ba362db2dbbfd9fabaad12/.agents/skills/skill-improvement/SKILL.md) |
+| [user-project-maintenance](https://github.com/LIghtJUNction/lightjunction/blob/main/.agents/skills/user-project-maintenance/SKILL.md) | `.agents/skills/user-project-maintenance/SKILL.md` | [固定版本](https://github.com/LIghtJUNction/lightjunction/blob/af64fdb76e120610e6ba362db2dbbfd9fabaad12/.agents/skills/user-project-maintenance/SKILL.md) |
 
 ### [LIghtJUNction/linux-windows-apps](https://github.com/LIghtJUNction/linux-windows-apps)
 
@@ -206,22 +206,22 @@
 
 | 技能入口 | 仓库内路径 | 核对快照 |
 | --- | --- | --- |
-| [android-cli](https://github.com/LIghtJUNction/MagicNet/blob/main/.agents/skills/android-cli/SKILL.md) | `.agents/skills/android-cli/SKILL.md` | [固定版本](https://github.com/LIghtJUNction/MagicNet/blob/59c0fa200939b42e6488462b3c5f01f61b9e7ad5/.agents/skills/android-cli/SKILL.md) |
-| [kamfw](https://github.com/LIghtJUNction/MagicNet/blob/main/.agents/skills/kamfw/SKILL.md) | `.agents/skills/kamfw/SKILL.md` | [固定版本](https://github.com/LIghtJUNction/MagicNet/blob/59c0fa200939b42e6488462b3c5f01f61b9e7ad5/.agents/skills/kamfw/SKILL.md) |
-| [magicnet-device-debugging](https://github.com/LIghtJUNction/MagicNet/blob/main/.agents/skills/magicnet-device-debugging/SKILL.md) | `.agents/skills/magicnet-device-debugging/SKILL.md` | [固定版本](https://github.com/LIghtJUNction/MagicNet/blob/59c0fa200939b42e6488462b3c5f01f61b9e7ad5/.agents/skills/magicnet-device-debugging/SKILL.md) |
-| [perfetto-sql](https://github.com/LIghtJUNction/MagicNet/blob/main/.agents/skills/perfetto-sql/SKILL.md) | `.agents/skills/perfetto-sql/SKILL.md` | [固定版本](https://github.com/LIghtJUNction/MagicNet/blob/59c0fa200939b42e6488462b3c5f01f61b9e7ad5/.agents/skills/perfetto-sql/SKILL.md) |
-| [perfetto-trace-analysis](https://github.com/LIghtJUNction/MagicNet/blob/main/.agents/skills/perfetto-trace-analysis/SKILL.md) | `.agents/skills/perfetto-trace-analysis/SKILL.md` | [固定版本](https://github.com/LIghtJUNction/MagicNet/blob/59c0fa200939b42e6488462b3c5f01f61b9e7ad5/.agents/skills/perfetto-trace-analysis/SKILL.md) |
-| [recipe-maintenance](https://github.com/LIghtJUNction/MagicNet/blob/main/.agents/skills/recipe-maintenance/SKILL.md) | `.agents/skills/recipe-maintenance/SKILL.md` | [固定版本](https://github.com/LIghtJUNction/MagicNet/blob/59c0fa200939b42e6488462b3c5f01f61b9e7ad5/.agents/skills/recipe-maintenance/SKILL.md) |
+| [android-cli](https://github.com/LIghtJUNction/MagicNet/blob/main/.agents/skills/android-cli/SKILL.md) | `.agents/skills/android-cli/SKILL.md` | [固定版本](https://github.com/LIghtJUNction/MagicNet/blob/9edd577ffd54b3f644d8ce51810bb7775ef24c7d/.agents/skills/android-cli/SKILL.md) |
+| [kamfw](https://github.com/LIghtJUNction/MagicNet/blob/main/.agents/skills/kamfw/SKILL.md) | `.agents/skills/kamfw/SKILL.md` | [固定版本](https://github.com/LIghtJUNction/MagicNet/blob/9edd577ffd54b3f644d8ce51810bb7775ef24c7d/.agents/skills/kamfw/SKILL.md) |
+| [magicnet-device-debugging](https://github.com/LIghtJUNction/MagicNet/blob/main/.agents/skills/magicnet-device-debugging/SKILL.md) | `.agents/skills/magicnet-device-debugging/SKILL.md` | [固定版本](https://github.com/LIghtJUNction/MagicNet/blob/9edd577ffd54b3f644d8ce51810bb7775ef24c7d/.agents/skills/magicnet-device-debugging/SKILL.md) |
+| [perfetto-sql](https://github.com/LIghtJUNction/MagicNet/blob/main/.agents/skills/perfetto-sql/SKILL.md) | `.agents/skills/perfetto-sql/SKILL.md` | [固定版本](https://github.com/LIghtJUNction/MagicNet/blob/9edd577ffd54b3f644d8ce51810bb7775ef24c7d/.agents/skills/perfetto-sql/SKILL.md) |
+| [perfetto-trace-analysis](https://github.com/LIghtJUNction/MagicNet/blob/main/.agents/skills/perfetto-trace-analysis/SKILL.md) | `.agents/skills/perfetto-trace-analysis/SKILL.md` | [固定版本](https://github.com/LIghtJUNction/MagicNet/blob/9edd577ffd54b3f644d8ce51810bb7775ef24c7d/.agents/skills/perfetto-trace-analysis/SKILL.md) |
+| [recipe-maintenance](https://github.com/LIghtJUNction/MagicNet/blob/main/.agents/skills/recipe-maintenance/SKILL.md) | `.agents/skills/recipe-maintenance/SKILL.md` | [固定版本](https://github.com/LIghtJUNction/MagicNet/blob/9edd577ffd54b3f644d8ce51810bb7775ef24c7d/.agents/skills/recipe-maintenance/SKILL.md) |
 
 ### [LIghtJUNction/magicnet-android](https://github.com/LIghtJUNction/magicnet-android)
 
 | 技能入口 | 仓库内路径 | 核对快照 |
 | --- | --- | --- |
-| [android-cli](https://github.com/LIghtJUNction/magicnet-android/blob/main/.agents/skills/android-cli/SKILL.md) | `.agents/skills/android-cli/SKILL.md` | [固定版本](https://github.com/LIghtJUNction/magicnet-android/blob/d22086d28499ceb25c9f2b7d965e783ded6c286a/.agents/skills/android-cli/SKILL.md) |
-| [kamfw](https://github.com/LIghtJUNction/magicnet-android/blob/main/.agents/skills/kamfw/SKILL.md) | `.agents/skills/kamfw/SKILL.md` | [固定版本](https://github.com/LIghtJUNction/magicnet-android/blob/d22086d28499ceb25c9f2b7d965e783ded6c286a/.agents/skills/kamfw/SKILL.md) |
-| [magicnet-device-debugging](https://github.com/LIghtJUNction/magicnet-android/blob/main/.agents/skills/magicnet-device-debugging/SKILL.md) | `.agents/skills/magicnet-device-debugging/SKILL.md` | [固定版本](https://github.com/LIghtJUNction/magicnet-android/blob/d22086d28499ceb25c9f2b7d965e783ded6c286a/.agents/skills/magicnet-device-debugging/SKILL.md) |
-| [perfetto-sql](https://github.com/LIghtJUNction/magicnet-android/blob/main/.agents/skills/perfetto-sql/SKILL.md) | `.agents/skills/perfetto-sql/SKILL.md` | [固定版本](https://github.com/LIghtJUNction/magicnet-android/blob/d22086d28499ceb25c9f2b7d965e783ded6c286a/.agents/skills/perfetto-sql/SKILL.md) |
-| [perfetto-trace-analysis](https://github.com/LIghtJUNction/magicnet-android/blob/main/.agents/skills/perfetto-trace-analysis/SKILL.md) | `.agents/skills/perfetto-trace-analysis/SKILL.md` | [固定版本](https://github.com/LIghtJUNction/magicnet-android/blob/d22086d28499ceb25c9f2b7d965e783ded6c286a/.agents/skills/perfetto-trace-analysis/SKILL.md) |
+| [android-cli](https://github.com/LIghtJUNction/magicnet-android/blob/main/.agents/skills/android-cli/SKILL.md) | `.agents/skills/android-cli/SKILL.md` | [固定版本](https://github.com/LIghtJUNction/magicnet-android/blob/cb7f63bc8eb426c8633de70ef03c9f8af0034ef6/.agents/skills/android-cli/SKILL.md) |
+| [kamfw](https://github.com/LIghtJUNction/magicnet-android/blob/main/.agents/skills/kamfw/SKILL.md) | `.agents/skills/kamfw/SKILL.md` | [固定版本](https://github.com/LIghtJUNction/magicnet-android/blob/cb7f63bc8eb426c8633de70ef03c9f8af0034ef6/.agents/skills/kamfw/SKILL.md) |
+| [magicnet-device-debugging](https://github.com/LIghtJUNction/magicnet-android/blob/main/.agents/skills/magicnet-device-debugging/SKILL.md) | `.agents/skills/magicnet-device-debugging/SKILL.md` | [固定版本](https://github.com/LIghtJUNction/magicnet-android/blob/cb7f63bc8eb426c8633de70ef03c9f8af0034ef6/.agents/skills/magicnet-device-debugging/SKILL.md) |
+| [perfetto-sql](https://github.com/LIghtJUNction/magicnet-android/blob/main/.agents/skills/perfetto-sql/SKILL.md) | `.agents/skills/perfetto-sql/SKILL.md` | [固定版本](https://github.com/LIghtJUNction/magicnet-android/blob/cb7f63bc8eb426c8633de70ef03c9f8af0034ef6/.agents/skills/perfetto-sql/SKILL.md) |
+| [perfetto-trace-analysis](https://github.com/LIghtJUNction/magicnet-android/blob/main/.agents/skills/perfetto-trace-analysis/SKILL.md) | `.agents/skills/perfetto-trace-analysis/SKILL.md` | [固定版本](https://github.com/LIghtJUNction/magicnet-android/blob/cb7f63bc8eb426c8633de70ef03c9f8af0034ef6/.agents/skills/perfetto-trace-analysis/SKILL.md) |
 
 ### [LIghtJUNction/magpie-context-folding](https://github.com/LIghtJUNction/magpie-context-folding)
 
@@ -325,7 +325,7 @@
 
 | 技能入口 | 仓库内路径 | 核对快照 |
 | --- | --- | --- |
-| [x-quality-growth](https://github.com/LIghtJUNction/x-quality-growth/blob/main/SKILL.md) | `SKILL.md` | [固定版本](https://github.com/LIghtJUNction/x-quality-growth/blob/315a484c38dad3f09f2e6b1067cbc89b58e40523/SKILL.md) |
+| [x-quality-growth](https://github.com/LIghtJUNction/x-quality-growth/blob/main/SKILL.md) | `SKILL.md` | [固定版本](https://github.com/LIghtJUNction/x-quality-growth/blob/73c8d5769e8700242dd5b9c70d517bfb8500f3bb/SKILL.md) |
 
 ## 已归档仓库
 
