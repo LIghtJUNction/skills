@@ -1,6 +1,6 @@
 {
   "owner": "LIghtJUNction",
-  "checked_at": "2026-11-07T02:26:00.221160+00:00",
+  "checked_at": "2026-11-08T02:26:47.690773+00:00",
   "repositories": [
     {
       "repo": "LIghtJUNction/ace5-kernelsu-next-susfs",
@@ -445,6 +445,17 @@
       "truncated": false
     },
     {
+      "repo": "LIghtJUNction/handdrawn-gif-explainer",
+      "branch": "main",
+      "description": "A reusable hand-drawn GIF explainer skill and renderer",
+      "archived": false,
+      "sha": "451e22a276ae50b94ea4315d7679df6fb3c1d999",
+      "paths": [
+        "handdrawn-gif-explainer/SKILL.md"
+      ],
+      "truncated": false
+    },
+    {
       "repo": "LIghtJUNction/hello_dkms",
       "branch": "main",
       "description": "linux kernel module (dkms) ",
@@ -503,7 +514,7 @@
       "branch": "main",
       "description": "自动更新的 GitHub 项目索引 · Searchable project directory",
       "archived": false,
-      "sha": "4a0d367044db60e5e8d99a06c9ec54402ea52ce1",
+      "sha": "99202daeb780a9132251c65dcaf1250f58501924",
       "paths": [],
       "truncated": false
     },
@@ -690,7 +701,7 @@
       "branch": "main",
       "description": "MagicNet-mihomo",
       "archived": false,
-      "sha": "51fbfffd9885aca08ed217f32e350c647d2c314e",
+      "sha": "462dfa83180b52840ac248e249d905cbac1c7ed0",
       "paths": [],
       "truncated": false
     },
@@ -699,7 +710,7 @@
       "branch": "main",
       "description": "Consciously set all groups to block",
       "archived": false,
-      "sha": "c9a632341928a6d2d03a60709f075ee2abf62105",
+      "sha": "26c8d0374ce3eecfdf457eee9f3ba14ed744242a",
       "paths": [
         ".agents/skills/android-cli/SKILL.md",
         ".agents/skills/kamfw/SKILL.md",
@@ -715,7 +726,7 @@
       "branch": "main",
       "description": "MagicNet Android implementation source, pinned by the MagicNet recipe repository.",
       "archived": false,
-      "sha": "3a86022b3eaf3a6299fa19394e4b2f6eea28b1a8",
+      "sha": "af3930bd9860344688efa62684afdd7ba4ba25f5",
       "paths": [
         ".agents/skills/android-cli/SKILL.md",
         ".agents/skills/kamfw/SKILL.md",
@@ -874,7 +885,7 @@
       "branch": "main",
       "description": "Headless test harness for Oxygen Not Included mods: real native simulation, isolated C# tests, no game launch",
       "archived": false,
-      "sha": "c149819ef18631c3e4fdd7cea901b1019552d8a3",
+      "sha": "b08176121b00a9e82c8dc8ad6f9be618318c86cc",
       "paths": [
         ".agents/skills/oni-harness/SKILL.md"
       ],
@@ -885,7 +896,7 @@
       "branch": "main",
       "description": "oxygen not included",
       "archived": false,
-      "sha": "64d1f381d40d92ef42ed3c700e5b7e8532891e8a",
+      "sha": "1bde9f7d4ad88647e260deefc397c1bb0e969014",
       "paths": [
         ".agents/skills/bilibili-live-comments/SKILL.md",
         ".agents/skills/oni-dupe-status-check/SKILL.md",
@@ -893,13 +904,17 @@
         ".agents/skills/oni-game-advisor/SKILL.md",
         ".agents/skills/oni-gameplay/SKILL.md",
         ".agents/skills/oni-harness/SKILL.md",
+        ".agents/skills/oni-jlib-patch-first/SKILL.md",
         ".agents/skills/oni-mcp-autonomous-iteration/SKILL.md",
+        ".agents/skills/oni-mcp-cli/SKILL.md",
         ".agents/skills/oni-mcp-colony-strategy/SKILL.md",
         ".agents/skills/oni-mcp-game-advisor/SKILL.md",
         ".agents/skills/oni-mcp-testing/SKILL.md",
         ".agents/skills/oni-online-framework/SKILL.md",
         ".agents/skills/oni-online-sdk/SKILL.md",
         ".agents/skills/oni-opening-setup/SKILL.md",
+        ".agents/skills/oni-workshop-description/SKILL.md",
+        ".agents/skills/oni-workshop-publish/SKILL.md",
         "oni-skills/SKILL.md"
       ],
       "truncated": false
@@ -1081,7 +1096,7 @@
       "branch": "main",
       "description": "RISE: recursive X and GitHub growth experiments, based on X open-source ranking code and honest quality measurement",
       "archived": false,
-      "sha": "c27af46823bdb590cccb1b404c500747a200325a",
+      "sha": "d0b91ee3f030c41f1268557351499cb0e400d077",
       "paths": [
         "SKILL.md"
       ],
