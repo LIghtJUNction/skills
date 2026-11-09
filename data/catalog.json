@@ -1,6 +1,6 @@
 {
   "owner": "LIghtJUNction",
-  "checked_at": "2026-11-08T02:26:47.690773+00:00",
+  "checked_at": "2026-11-09T02:28:16.562071+00:00",
   "repositories": [
     {
       "repo": "LIghtJUNction/ace5-kernelsu-next-susfs",
@@ -236,24 +236,8 @@
       "branch": "main",
       "description": "“Everything is a file” for the AGI era — an agent framework masquerading as a POSIX file system for LLM context, memory, and reasoning.",
       "archived": false,
-      "sha": "ad7e2fcd116b3fd1cd1bf154cdf304664e02f248",
-      "paths": [
-        ".agents/skills/cortexfs-dry-refactor/SKILL.md",
-        ".agents/skills/cortexfs-extension-development/SKILL.md",
-        ".agents/skills/cortexfs-performance/SKILL.md",
-        ".agents/skills/cortexfs-test/SKILL.md",
-        ".agents/skills/ctx-harness-evaluation/SKILL.md",
-        ".agents/skills/speckit-analyze/SKILL.md",
-        ".agents/skills/speckit-checklist/SKILL.md",
-        ".agents/skills/speckit-clarify/SKILL.md",
-        ".agents/skills/speckit-constitution/SKILL.md",
-        ".agents/skills/speckit-converge/SKILL.md",
-        ".agents/skills/speckit-implement/SKILL.md",
-        ".agents/skills/speckit-plan/SKILL.md",
-        ".agents/skills/speckit-specify/SKILL.md",
-        ".agents/skills/speckit-tasks/SKILL.md",
-        ".agents/skills/speckit-taskstoissues/SKILL.md"
-      ],
+      "sha": "4df02896646333323d39f83c64aedbad22042cec",
+      "paths": [],
       "truncated": false
     },
     {
@@ -514,7 +498,7 @@
       "branch": "main",
       "description": "自动更新的 GitHub 项目索引 · Searchable project directory",
       "archived": false,
-      "sha": "99202daeb780a9132251c65dcaf1250f58501924",
+      "sha": "6c83968e179ef41de411fa17ac9bb925f40aa9b5",
       "paths": [],
       "truncated": false
     },
@@ -701,7 +685,7 @@
       "branch": "main",
       "description": "MagicNet-mihomo",
       "archived": false,
-      "sha": "462dfa83180b52840ac248e249d905cbac1c7ed0",
+      "sha": "145a8faf07805417a3d5921573d698efc91a6244",
       "paths": [],
       "truncated": false
     },
@@ -710,7 +694,7 @@
       "branch": "main",
       "description": "Consciously set all groups to block",
       "archived": false,
-      "sha": "26c8d0374ce3eecfdf457eee9f3ba14ed744242a",
+      "sha": "cbb613d979c25997d3ff0a50090367705e7c2e1b",
       "paths": [
         ".agents/skills/android-cli/SKILL.md",
         ".agents/skills/kamfw/SKILL.md",
@@ -726,7 +710,7 @@
       "branch": "main",
       "description": "MagicNet Android implementation source, pinned by the MagicNet recipe repository.",
       "archived": false,
-      "sha": "af3930bd9860344688efa62684afdd7ba4ba25f5",
+      "sha": "351b7d7189c057ba88c4da89092e5bc4124989d0",
       "paths": [
         ".agents/skills/android-cli/SKILL.md",
         ".agents/skills/kamfw/SKILL.md",
@@ -885,7 +869,7 @@
       "branch": "main",
       "description": "Headless test harness for Oxygen Not Included mods: real native simulation, isolated C# tests, no game launch",
       "archived": false,
-      "sha": "b08176121b00a9e82c8dc8ad6f9be618318c86cc",
+      "sha": "ad2e5970ab1fbe9d36ffd0fbd6869a06a262c27f",
       "paths": [
         ".agents/skills/oni-harness/SKILL.md"
       ],
@@ -896,7 +880,7 @@
       "branch": "main",
       "description": "oxygen not included",
       "archived": false,
-      "sha": "1bde9f7d4ad88647e260deefc397c1bb0e969014",
+      "sha": "07e18765c0635ccfcc1954fbf56ad97a198b4387",
       "paths": [
         ".agents/skills/bilibili-live-comments/SKILL.md",
         ".agents/skills/oni-dupe-status-check/SKILL.md",
@@ -1096,7 +1080,7 @@
       "branch": "main",
       "description": "RISE: recursive X and GitHub growth experiments, based on X open-source ranking code and honest quality measurement",
       "archived": false,
-      "sha": "d0b91ee3f030c41f1268557351499cb0e400d077",
+      "sha": "57d2a9729c5c6f9d429bbeb3a0a9a33647219756",
       "paths": [
         "SKILL.md"
       ],
