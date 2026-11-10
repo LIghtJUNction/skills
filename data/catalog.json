@@ -1,6 +1,6 @@
 {
   "owner": "LIghtJUNction",
-  "checked_at": "2026-11-09T02:28:16.562071+00:00",
+  "checked_at": "2026-11-10T02:26:55.330189+00:00",
   "repositories": [
     {
       "repo": "LIghtJUNction/ace5-kernelsu-next-susfs",
@@ -498,7 +498,7 @@
       "branch": "main",
       "description": "自动更新的 GitHub 项目索引 · Searchable project directory",
       "archived": false,
-      "sha": "6c83968e179ef41de411fa17ac9bb925f40aa9b5",
+      "sha": "72fb88396e2384d4c7dffe378c8c4612bd2cf61a",
       "paths": [],
       "truncated": false
     },
@@ -685,7 +685,7 @@
       "branch": "main",
       "description": "MagicNet-mihomo",
       "archived": false,
-      "sha": "145a8faf07805417a3d5921573d698efc91a6244",
+      "sha": "dc7bbb31b0ad6329d89f3b300215ffbb4013b3f1",
       "paths": [],
       "truncated": false
     },
@@ -694,7 +694,7 @@
       "branch": "main",
       "description": "Consciously set all groups to block",
       "archived": false,
-      "sha": "cbb613d979c25997d3ff0a50090367705e7c2e1b",
+      "sha": "bbdf39df706d961d356316a966204ea3051be445",
       "paths": [
         ".agents/skills/android-cli/SKILL.md",
         ".agents/skills/kamfw/SKILL.md",
@@ -710,7 +710,7 @@
       "branch": "main",
       "description": "MagicNet Android implementation source, pinned by the MagicNet recipe repository.",
       "archived": false,
-      "sha": "351b7d7189c057ba88c4da89092e5bc4124989d0",
+      "sha": "9163064b51ba59cc89ac9a807fceb24573fed725",
       "paths": [
         ".agents/skills/android-cli/SKILL.md",
         ".agents/skills/kamfw/SKILL.md",
@@ -773,7 +773,7 @@
       "branch": "main",
       "description": "Every agent's model. One place. Codex on DeepSeek, Claude Code on Kimi, from the menu bar.",
       "archived": false,
-      "sha": "a604a9a81a7f7496f5237da30070f5958d9e4445",
+      "sha": "547d6db796406b6d972322aede22b8d3d87a7c6a",
       "paths": [],
       "truncated": false
     },
@@ -782,7 +782,7 @@
       "branch": "main",
       "description": "Rust implementation of Magpie with a CLI, local gateway prototype, GPUI desktop shell, and reproducible benchmarks.",
       "archived": false,
-      "sha": "e81e07e69acc4ea71318a1e327db11cdb28e2db7",
+      "sha": "43536e6d4f117c5e138922fa7f99e2d63cc28647",
       "paths": [],
       "truncated": false
     },
@@ -880,7 +880,7 @@
       "branch": "main",
       "description": "oxygen not included",
       "archived": false,
-      "sha": "07e18765c0635ccfcc1954fbf56ad97a198b4387",
+      "sha": "438d97b2484dffc3ed9f284925c34ff019b9699b",
       "paths": [
         ".agents/skills/bilibili-live-comments/SKILL.md",
         ".agents/skills/oni-dupe-status-check/SKILL.md",
@@ -1080,10 +1080,46 @@
       "branch": "main",
       "description": "RISE: recursive X and GitHub growth experiments, based on X open-source ranking code and honest quality measurement",
       "archived": false,
-      "sha": "57d2a9729c5c6f9d429bbeb3a0a9a33647219756",
+      "sha": "9dde988ebcc6f106cbbc95d897e4acfe96edaaff",
       "paths": [
         "SKILL.md"
       ],
+      "truncated": false
+    },
+    {
+      "repo": "LIghtJUNction/z58",
+      "branch": "main",
+      "description": "Super fast base58 rust library.",
+      "archived": false,
+      "sha": "3d1f81055e71f1ef2c715cc9100f95e84315c848",
+      "paths": [],
+      "truncated": false
+    },
+    {
+      "repo": "LIghtJUNction/z64",
+      "branch": "main",
+      "description": null,
+      "archived": false,
+      "sha": "cda77a6bd866be19831decc420e95a5a5bd79e75",
+      "paths": [],
+      "truncated": false
+    },
+    {
+      "repo": "LIghtJUNction/zclap",
+      "branch": "main",
+      "description": "Small, allocation-free command-line parsing with borrowed events",
+      "archived": false,
+      "sha": "32df66134af7173db24d89cff6df4c44e9e3e5de",
+      "paths": [],
+      "truncated": false
+    },
+    {
+      "repo": "LIghtJUNction/zhex",
+      "branch": "main",
+      "description": null,
+      "archived": false,
+      "sha": "1d199d89ee82113d2df1ce5d8d3db209e587728c",
+      "paths": [],
       "truncated": false
     },
     {
@@ -1092,6 +1128,15 @@
       "description": "python程序之速刷【智联E学】-大学生职业规划短视频观看任务",
       "archived": false,
       "sha": "5f1a4415d1c25f952e106149ba62bdadcab80a31",
+      "paths": [],
+      "truncated": false
+    },
+    {
+      "repo": "LIghtJUNction/zscan",
+      "branch": "main",
+      "description": null,
+      "archived": false,
+      "sha": "58d86b65dbbfd26992f9531465cd56976fcb6a78",
       "paths": [],
       "truncated": false
     }
