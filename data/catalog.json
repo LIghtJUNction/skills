@@ -1,6 +1,6 @@
 {
   "owner": "LIghtJUNction",
-  "checked_at": "2026-11-10T02:26:55.330189+00:00",
+  "checked_at": "2026-11-11T02:25:37.230328+00:00",
   "repositories": [
     {
       "repo": "LIghtJUNction/ace5-kernelsu-next-susfs",
@@ -78,6 +78,17 @@
       "archived": false,
       "sha": "87c32d53b8977af3f376b9d3489c2aada82637a1",
       "paths": [],
+      "truncated": false
+    },
+    {
+      "repo": "LIghtJUNction/android-app-development",
+      "branch": "main",
+      "description": "Reusable Codex skill for Android app development (scaffold)",
+      "archived": false,
+      "sha": "8eb80230e9dbb0bf9a9252a099ffd7a9538cc94f",
+      "paths": [
+        "SKILL.md"
+      ],
       "truncated": false
     },
     {
@@ -498,7 +509,7 @@
       "branch": "main",
       "description": "自动更新的 GitHub 项目索引 · Searchable project directory",
       "archived": false,
-      "sha": "72fb88396e2384d4c7dffe378c8c4612bd2cf61a",
+      "sha": "815fa7d154127b90b34c44cdd5218c87c569645d",
       "paths": [],
       "truncated": false
     },
@@ -630,7 +641,7 @@
       "branch": "main",
       "description": "I'M LIghtJUNction",
       "archived": false,
-      "sha": "af64fdb76e120610e6ba362db2dbbfd9fabaad12",
+      "sha": "954101f6a4e050266515098a786ebc80dc9141e9",
       "paths": [
         ".agents/skills/agentmail-email/SKILL.md",
         ".agents/skills/bilibili-social/SKILL.md",
@@ -685,7 +696,7 @@
       "branch": "main",
       "description": "MagicNet-mihomo",
       "archived": false,
-      "sha": "dc7bbb31b0ad6329d89f3b300215ffbb4013b3f1",
+      "sha": "1eea3ddaed100042e4cef0daede9f196847bf9ee",
       "paths": [],
       "truncated": false
     },
@@ -694,7 +705,7 @@
       "branch": "main",
       "description": "Consciously set all groups to block",
       "archived": false,
-      "sha": "bbdf39df706d961d356316a966204ea3051be445",
+      "sha": "8bf401a7356a35029af11f7056f50526874ca3b1",
       "paths": [
         ".agents/skills/android-cli/SKILL.md",
         ".agents/skills/kamfw/SKILL.md",
@@ -710,7 +721,7 @@
       "branch": "main",
       "description": "MagicNet Android implementation source, pinned by the MagicNet recipe repository.",
       "archived": false,
-      "sha": "9163064b51ba59cc89ac9a807fceb24573fed725",
+      "sha": "406938e3e396676770a5a9b4911006f19db1c338",
       "paths": [
         ".agents/skills/android-cli/SKILL.md",
         ".agents/skills/kamfw/SKILL.md",
@@ -838,7 +849,7 @@
       "branch": "main",
       "description": "Unofficial MECHREVO Linux platform drivers, based on TUXEDO drivers, with stable upstream release sync",
       "archived": false,
-      "sha": "ba727d8f4ab95401b08fd6df2bbdebbfdc9b5bfa",
+      "sha": "ae8bf7f42b13d04c081613d836f0e15a93c5b06f",
       "paths": [
         "docs/skills/mechrevo-verification/SKILL.md"
       ],
@@ -880,7 +891,7 @@
       "branch": "main",
       "description": "oxygen not included",
       "archived": false,
-      "sha": "438d97b2484dffc3ed9f284925c34ff019b9699b",
+      "sha": "69aa1567886e087a03bc16189a9973b92504e465",
       "paths": [
         ".agents/skills/bilibili-live-comments/SKILL.md",
         ".agents/skills/oni-dupe-status-check/SKILL.md",
@@ -894,6 +905,7 @@
         ".agents/skills/oni-mcp-colony-strategy/SKILL.md",
         ".agents/skills/oni-mcp-game-advisor/SKILL.md",
         ".agents/skills/oni-mcp-testing/SKILL.md",
+        ".agents/skills/oni-mod-mcp-test/SKILL.md",
         ".agents/skills/oni-online-framework/SKILL.md",
         ".agents/skills/oni-online-sdk/SKILL.md",
         ".agents/skills/oni-opening-setup/SKILL.md",
@@ -1080,7 +1092,7 @@
       "branch": "main",
       "description": "RISE: recursive X and GitHub growth experiments, based on X open-source ranking code and honest quality measurement",
       "archived": false,
-      "sha": "9dde988ebcc6f106cbbc95d897e4acfe96edaaff",
+      "sha": "ae32a16e784dfb2d3258540feed9e6f072e0d55c",
       "paths": [
         "SKILL.md"
       ],
@@ -1091,7 +1103,7 @@
       "branch": "main",
       "description": "Super fast base58 rust library.",
       "archived": false,
-      "sha": "3d1f81055e71f1ef2c715cc9100f95e84315c848",
+      "sha": "1201c6ec0c01b6853258f51339f65605342bf61d",
       "paths": [],
       "truncated": false
     },
@@ -1100,7 +1112,16 @@
       "branch": "main",
       "description": null,
       "archived": false,
-      "sha": "cda77a6bd866be19831decc420e95a5a5bd79e75",
+      "sha": "928ad1b1b41363a33ffe4794f7d36325497c043c",
+      "paths": [],
+      "truncated": false
+    },
+    {
+      "repo": "LIghtJUNction/zcall",
+      "branch": "main",
+      "description": null,
+      "archived": false,
+      "sha": "bb03c6aac8e6897ef804f93b42f624de69a9a59f",
       "paths": [],
       "truncated": false
     },
@@ -1109,7 +1130,25 @@
       "branch": "main",
       "description": "Small, allocation-free command-line parsing with borrowed events",
       "archived": false,
-      "sha": "32df66134af7173db24d89cff6df4c44e9e3e5de",
+      "sha": "c350af5b47ed52a6c04ab5cd69720bdac3a98879",
+      "paths": [],
+      "truncated": false
+    },
+    {
+      "repo": "LIghtJUNction/zconv",
+      "branch": "main",
+      "description": "Microsecond-level AI Protocol Converter",
+      "archived": false,
+      "sha": "f11f42ca7faf2f2bec266a89dfcc0f060e773bdf",
+      "paths": [],
+      "truncated": false
+    },
+    {
+      "repo": "LIghtJUNction/zdwire",
+      "branch": "main",
+      "description": null,
+      "archived": false,
+      "sha": "b005206f44c94ec3abb5d6a448681cebbe44450d",
       "paths": [],
       "truncated": false
     },
@@ -1118,7 +1157,7 @@
       "branch": "main",
       "description": null,
       "archived": false,
-      "sha": "1d199d89ee82113d2df1ce5d8d3db209e587728c",
+      "sha": "f6d7616c9af51850170b9dae9196e6e5b3cedae1",
       "paths": [],
       "truncated": false
     },
@@ -1132,11 +1171,47 @@
       "truncated": false
     },
     {
+      "repo": "LIghtJUNction/zldap",
+      "branch": "main",
+      "description": null,
+      "archived": false,
+      "sha": "0886c0c915d1f4f61b4224e9931ea77518f9bd50",
+      "paths": [],
+      "truncated": false
+    },
+    {
+      "repo": "LIghtJUNction/zmime",
+      "branch": "main",
+      "description": null,
+      "archived": false,
+      "sha": "5eefb9c4e222093b8fb0855d41bce26c30350350",
+      "paths": [],
+      "truncated": false
+    },
+    {
       "repo": "LIghtJUNction/zscan",
       "branch": "main",
       "description": null,
       "archived": false,
-      "sha": "58d86b65dbbfd26992f9531465cd56976fcb6a78",
+      "sha": "3fda21e57e2ee917aff0a8292b7a3967d479678b",
+      "paths": [],
+      "truncated": false
+    },
+    {
+      "repo": "LIghtJUNction/zsyn",
+      "branch": "main",
+      "description": null,
+      "archived": false,
+      "sha": "d735d20bef884c893e323da61c3b1907dc778a1f",
+      "paths": [],
+      "truncated": false
+    },
+    {
+      "repo": "LIghtJUNction/zvte",
+      "branch": "main",
+      "description": null,
+      "archived": false,
+      "sha": "ccdba1ce8520317e400e91494270b75d7be054c8",
       "paths": [],
       "truncated": false
     }
