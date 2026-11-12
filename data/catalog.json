@@ -1,6 +1,6 @@
 {
   "owner": "LIghtJUNction",
-  "checked_at": "2026-11-11T02:25:37.230328+00:00",
+  "checked_at": "2026-11-12T02:27:09.505370+00:00",
   "repositories": [
     {
       "repo": "LIghtJUNction/ace5-kernelsu-next-susfs",
@@ -509,7 +509,7 @@
       "branch": "main",
       "description": "自动更新的 GitHub 项目索引 · Searchable project directory",
       "archived": false,
-      "sha": "815fa7d154127b90b34c44cdd5218c87c569645d",
+      "sha": "71f47760c6622a0e6eae7c97ff25c9517f91031d",
       "paths": [],
       "truncated": false
     },
@@ -641,7 +641,7 @@
       "branch": "main",
       "description": "I'M LIghtJUNction",
       "archived": false,
-      "sha": "954101f6a4e050266515098a786ebc80dc9141e9",
+      "sha": "d226f161ca915dd534b13b8ffc69d60f4e894775",
       "paths": [
         ".agents/skills/agentmail-email/SKILL.md",
         ".agents/skills/bilibili-social/SKILL.md",
@@ -696,7 +696,7 @@
       "branch": "main",
       "description": "MagicNet-mihomo",
       "archived": false,
-      "sha": "1eea3ddaed100042e4cef0daede9f196847bf9ee",
+      "sha": "ecabba67acf30c1641978459320cca1f3de64900",
       "paths": [],
       "truncated": false
     },
@@ -705,7 +705,7 @@
       "branch": "main",
       "description": "Consciously set all groups to block",
       "archived": false,
-      "sha": "8bf401a7356a35029af11f7056f50526874ca3b1",
+      "sha": "2dbb13e49f989506ac43f05d35945366843757d1",
       "paths": [
         ".agents/skills/android-cli/SKILL.md",
         ".agents/skills/kamfw/SKILL.md",
@@ -721,7 +721,7 @@
       "branch": "main",
       "description": "MagicNet Android implementation source, pinned by the MagicNet recipe repository.",
       "archived": false,
-      "sha": "406938e3e396676770a5a9b4911006f19db1c338",
+      "sha": "dc4433d1cfbeade114d51f3f3c429378d3d7b68d",
       "paths": [
         ".agents/skills/android-cli/SKILL.md",
         ".agents/skills/kamfw/SKILL.md",
@@ -880,7 +880,7 @@
       "branch": "main",
       "description": "Headless test harness for Oxygen Not Included mods: real native simulation, isolated C# tests, no game launch",
       "archived": false,
-      "sha": "ad2e5970ab1fbe9d36ffd0fbd6869a06a262c27f",
+      "sha": "922c516699241cfcff821a0768c27e085deb2097",
       "paths": [
         ".agents/skills/oni-harness/SKILL.md"
       ],
@@ -891,7 +891,7 @@
       "branch": "main",
       "description": "oxygen not included",
       "archived": false,
-      "sha": "69aa1567886e087a03bc16189a9973b92504e465",
+      "sha": "c56ecedecb40d632308985af1c42a57669b59387",
       "paths": [
         ".agents/skills/bilibili-live-comments/SKILL.md",
         ".agents/skills/oni-dupe-status-check/SKILL.md",
@@ -923,6 +923,17 @@
       "sha": "f9e6c1f87ebb36a5cab7a3cee3a99f3a91650a17",
       "paths": [
         "skills/painterly-loop-gif/SKILL.md"
+      ],
+      "truncated": false
+    },
+    {
+      "repo": "LIghtJUNction/paperclay-slides-skill",
+      "branch": "main",
+      "description": null,
+      "archived": false,
+      "sha": "474836bbd3ec77e2c65474ac9f9176d4e49480f9",
+      "paths": [
+        "SKILL.md"
       ],
       "truncated": false
     },
@@ -1092,7 +1103,7 @@
       "branch": "main",
       "description": "RISE: recursive X and GitHub growth experiments, based on X open-source ranking code and honest quality measurement",
       "archived": false,
-      "sha": "ae32a16e784dfb2d3258540feed9e6f072e0d55c",
+      "sha": "e434e3b565e916e4025c6cb4da258def9320e7a5",
       "paths": [
         "SKILL.md"
       ],
@@ -1103,7 +1114,7 @@
       "branch": "main",
       "description": "Super fast base58 rust library.",
       "archived": false,
-      "sha": "1201c6ec0c01b6853258f51339f65605342bf61d",
+      "sha": "c70d50eafb3f50eb9a709861f9e1ed2c2fa48dc3",
       "paths": [],
       "truncated": false
     },
@@ -1112,16 +1123,16 @@
       "branch": "main",
       "description": null,
       "archived": false,
-      "sha": "928ad1b1b41363a33ffe4794f7d36325497c043c",
+      "sha": "087fcf28a1e050dbbbbee678463dbbe233f337d7",
       "paths": [],
       "truncated": false
     },
     {
       "repo": "LIghtJUNction/zcall",
       "branch": "main",
-      "description": null,
+      "description": "A protocol-independent, caller-buffered AI call kernel for harness software.",
       "archived": false,
-      "sha": "bb03c6aac8e6897ef804f93b42f624de69a9a59f",
+      "sha": "f7c3b6d7a663e1bc8801d0d27732595a4ad424b5",
       "paths": [],
       "truncated": false
     },
@@ -1130,7 +1141,16 @@
       "branch": "main",
       "description": "Small, allocation-free command-line parsing with borrowed events",
       "archived": false,
-      "sha": "c350af5b47ed52a6c04ab5cd69720bdac3a98879",
+      "sha": "4d87f3ae3743e81509d5ac5500909955667c860f",
+      "paths": [],
+      "truncated": false
+    },
+    {
+      "repo": "LIghtJUNction/zclick",
+      "branch": "main",
+      "description": "An extremely fast Python library for building command-line applications.",
+      "archived": false,
+      "sha": "cde8dcff48f264ce1d329519e604df1096f1ca93",
       "paths": [],
       "truncated": false
     },
@@ -1139,7 +1159,7 @@
       "branch": "main",
       "description": "Microsecond-level AI Protocol Converter",
       "archived": false,
-      "sha": "f11f42ca7faf2f2bec266a89dfcc0f060e773bdf",
+      "sha": "5c35f4d98ac61fcf331ef010defd40403f274acc",
       "paths": [],
       "truncated": false
     },
@@ -1148,7 +1168,16 @@
       "branch": "main",
       "description": null,
       "archived": false,
-      "sha": "b005206f44c94ec3abb5d6a448681cebbe44450d",
+      "sha": "b0103b019dc4797f717249bc10dddb0d088a47b3",
+      "paths": [],
+      "truncated": false
+    },
+    {
+      "repo": "LIghtJUNction/zharness",
+      "branch": "main",
+      "description": null,
+      "archived": false,
+      "sha": "d363c1096f09538ae0ac08536bb051ed98fec0e6",
       "paths": [],
       "truncated": false
     },
@@ -1157,7 +1186,7 @@
       "branch": "main",
       "description": null,
       "archived": false,
-      "sha": "f6d7616c9af51850170b9dae9196e6e5b3cedae1",
+      "sha": "3f321f283660f0ade580ffaca1b2fdea14994055",
       "paths": [],
       "truncated": false
     },
@@ -1175,7 +1204,16 @@
       "branch": "main",
       "description": null,
       "archived": false,
-      "sha": "0886c0c915d1f4f61b4224e9931ea77518f9bd50",
+      "sha": "c82087dd598955ad34e8edbd51732e45586e3ed5",
+      "paths": [],
+      "truncated": false
+    },
+    {
+      "repo": "LIghtJUNction/zmcpio",
+      "branch": "main",
+      "description": null,
+      "archived": false,
+      "sha": "8e2da44576401d1ae7c1c477eb0bf59f81637150",
       "paths": [],
       "truncated": false
     },
@@ -1184,7 +1222,16 @@
       "branch": "main",
       "description": null,
       "archived": false,
-      "sha": "5eefb9c4e222093b8fb0855d41bce26c30350350",
+      "sha": "8ccddbeb4b796e1c081404656599fe2b7f37bd61",
+      "paths": [],
+      "truncated": false
+    },
+    {
+      "repo": "LIghtJUNction/zplugin",
+      "branch": "main",
+      "description": null,
+      "archived": false,
+      "sha": "a1a8341150c58767b2f5a9a4124f6ff1c8dadf20",
       "paths": [],
       "truncated": false
     },
@@ -1193,7 +1240,7 @@
       "branch": "main",
       "description": null,
       "archived": false,
-      "sha": "3fda21e57e2ee917aff0a8292b7a3967d479678b",
+      "sha": "c000a84c748d8e090ff662b2aef3858aa4880b09",
       "paths": [],
       "truncated": false
     },
@@ -1202,7 +1249,7 @@
       "branch": "main",
       "description": null,
       "archived": false,
-      "sha": "d735d20bef884c893e323da61c3b1907dc778a1f",
+      "sha": "b1cb68fd61101e98c504a90e47b74e2bccdd0165",
       "paths": [],
       "truncated": false
     },
@@ -1211,7 +1258,7 @@
       "branch": "main",
       "description": null,
       "archived": false,
-      "sha": "ccdba1ce8520317e400e91494270b75d7be054c8",
+      "sha": "a7f8bb82cb35d3da3b327a143c38e10b0f59d84e",
       "paths": [],
       "truncated": false
     }
