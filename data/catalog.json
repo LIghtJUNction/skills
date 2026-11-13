@@ -1,13 +1,13 @@
 {
   "owner": "LIghtJUNction",
-  "checked_at": "2026-11-12T02:27:09.505370+00:00",
+  "checked_at": "2026-11-13T02:25:25.780594+00:00",
   "repositories": [
     {
       "repo": "LIghtJUNction/ace5-kernelsu-next-susfs",
       "branch": "ace5-kernelsu-next-susfs",
       "description": "OnePlus Ace 5 PKG110 Android 16 kernel builder with pinned KernelSU-Next SUSFS integration and build evidence; not device tested",
       "archived": false,
-      "sha": "02465bff4ab03b3c1168038974a0dc2c83d287d8",
+      "sha": "dabb84310e6e987858756109f068dcf96bf57192",
       "paths": [],
       "truncated": false
     },
@@ -148,7 +148,7 @@
       "branch": "main",
       "description": "AndroidSubSystem4GNU/Linux",
       "archived": false,
-      "sha": "684528550c5f375b3b947ac23b758397435cb8d0",
+      "sha": "d043364c8a764e74b3bb18d20cf0969c3f3b7e58",
       "paths": [],
       "truncated": false
     },
@@ -175,7 +175,7 @@
       "branch": "main",
       "description": "An agent-first, MIT-inspired license. Upstream feedback by default, independent forks by choice.",
       "archived": false,
-      "sha": "a8cbb20ea4171b83d2fe2274518426efad69443a",
+      "sha": "527d18f865ea67d087ddcfd9bf4a7333f80bdeca",
       "paths": [],
       "truncated": false
     },
@@ -213,7 +213,7 @@
       "branch": "main",
       "description": "BossKit",
       "archived": false,
-      "sha": "a1d34727edaf190dc8c9f5ebae778cce70f5e836",
+      "sha": "f4b83b59b7e7c254ce2083f4f0e64bcf02aa69ec",
       "paths": [
         ".agents/skills/resume-application/SKILL.md",
         ".agents/skills/resume-screening/SKILL.md"
@@ -225,7 +225,7 @@
       "branch": "main",
       "description": "Deterministic source-code compression density analysis",
       "archived": false,
-      "sha": "ff7b5d0971050c15e61357062339b5d840693d21",
+      "sha": "6c6692318b96178a83d3a9cdae5d6abd2c01ea50",
       "paths": [
         ".agents/skills/codensity/SKILL.md"
       ],
@@ -236,7 +236,7 @@
       "branch": "main",
       "description": "codex sync",
       "archived": false,
-      "sha": "5627004ad6c239e181591c6224053ad6f6d5063b",
+      "sha": "70381f032eff84c3c19c8219f07d3940d4a4f2e5",
       "paths": [
         ".agents/skills/sync-codex-records/SKILL.md"
       ],
@@ -256,7 +256,7 @@
       "branch": "main",
       "description": "Copy once. Paste exactly. A planned Rust copy-and-paste tool for AI agents.",
       "archived": false,
-      "sha": "cd5a43f6cd17fb20a6b79752f29ceebe59208fa9",
+      "sha": "20044575ebb9fcd5f67d0912c611198788e9dd24",
       "paths": [
         "skills/cpyref/SKILL.md"
       ],
@@ -276,7 +276,7 @@
       "branch": "main",
       "description": "抖音非官方sdk/命令行工具",
       "archived": false,
-      "sha": "8b9ddd0dc218c476dbac0992dd07fbc6e9e7f973",
+      "sha": "6fd60551f6bf9a736c4fd52863a14ee87aef5720",
       "paths": [
         ".agents/skills/douyin/SKILL.md"
       ],
@@ -298,7 +298,7 @@
       "branch": "main",
       "description": "Keep the computer awake while DSH agents run",
       "archived": false,
-      "sha": "e5137cddf9685328aae5c7ada8b5bd41731c6ddb",
+      "sha": "bd9c8e522d09fba42da7fe057634f5ca2ceb4304",
       "paths": [],
       "truncated": false
     },
@@ -307,7 +307,7 @@
       "branch": "main",
       "description": "Repository code maps and navigation for DSH",
       "archived": false,
-      "sha": "aa8971f5506d799de21485fd229cd76377ee2c62",
+      "sha": "9780d030a65d290f560570cc1ba55f7b1f68914b",
       "paths": [],
       "truncated": false
     },
@@ -325,7 +325,7 @@
       "branch": "main",
       "description": "Explicit dotenv loading without overwriting inherited variables",
       "archived": false,
-      "sha": "a037d008e1b3c99cf1a2d1ccf1d7208cec78a584",
+      "sha": "e84a494831129f545e64e2fb43cc843ed735fed5",
       "paths": [],
       "truncated": false
     },
@@ -334,7 +334,7 @@
       "branch": "main",
       "description": "Immutable file and diff context snapshots for DSH",
       "archived": false,
-      "sha": "4e329948b0b667596a0ab40c50127226eb08a05e",
+      "sha": "0c527c82c036e702b2b5c0dd6601fb5bbc5931b6",
       "paths": [],
       "truncated": false
     },
@@ -343,7 +343,7 @@
       "branch": "main",
       "description": "Stale-safe hash-anchored line editing for DSH",
       "archived": false,
-      "sha": "539e73044e6d0b3d7afac3099f6ea5e55f152c81",
+      "sha": "c75564e54c2d7a97c8375f8c532916e33874657e",
       "paths": [],
       "truncated": false
     },
@@ -352,7 +352,7 @@
       "branch": "main",
       "description": "Ten Pi-inspired plugins for DeepSeek Harness, independently versioned as Git submodules",
       "archived": false,
-      "sha": "e1d68c985e8bf731c0be27e57bc12833f77aa01d",
+      "sha": "b232928458dac96dde2d753c63473b16a8a86ecd",
       "paths": [],
       "truncated": false
     },
@@ -361,7 +361,7 @@
       "branch": "main",
       "description": "Revision-checked Markdown notes for DSH",
       "archived": false,
-      "sha": "ace36e38141ba0250a11ad06c89a495458e861ee",
+      "sha": "8f8c8133a5f3105decce27013e47a9339fc8887d",
       "paths": [],
       "truncated": false
     },
@@ -370,7 +370,7 @@
       "branch": "main",
       "description": "Searchable project conversation excerpts for DSH",
       "archived": false,
-      "sha": "bd612f826d5a74e92b2ea8dd6b242679cf0b8566",
+      "sha": "dbf6daf43eb86d42b18501a046c4c83a66e3cc5e",
       "paths": [],
       "truncated": false
     },
@@ -379,7 +379,7 @@
       "branch": "main",
       "description": "Evidence-driven RED GREEN REFACTOR workflow for DSH",
       "archived": false,
-      "sha": "fd47cc7a7bccec783ab7b13860df541ed8b6397d",
+      "sha": "6e044690b796faf6b392cc5851db59a2484a2038",
       "paths": [],
       "truncated": false
     },
@@ -388,7 +388,7 @@
       "branch": "main",
       "description": "Non-destructive Git checkpoints and file rewind for DSH",
       "archived": false,
-      "sha": "4478e3ced6a89fcc847558f4b37c26d91153692e",
+      "sha": "903bffce7a0f49091ec510d3e7f7a9ef18a31703",
       "paths": [],
       "truncated": false
     },
@@ -397,7 +397,7 @@
       "branch": "main",
       "description": "RTK command optimization for DSH",
       "archived": false,
-      "sha": "060c5aeb5f66dbe9068c1c64ed3e5ba4abdce99a",
+      "sha": "e40bbe84bd04789b0f4695f91e148c07aa27d118",
       "paths": [],
       "truncated": false
     },
@@ -406,7 +406,7 @@
       "branch": "main",
       "description": null,
       "archived": false,
-      "sha": "3bcc9c4c6aafa9058d9067fb769514f8c52daff0",
+      "sha": "55fef25f2170f1f21b347ba3052ead93e790b8a6",
       "paths": [],
       "truncated": false
     },
@@ -415,7 +415,7 @@
       "branch": "main",
       "description": "Geg Embeds Gemma — offline semantic grep for local code and text with EmbeddingGemma 2",
       "archived": false,
-      "sha": "e19641bfcff07b7bdeeb3e5a3375dc10f661886b",
+      "sha": "65ff1c10997bf755fddaea6858dc474336a22c65",
       "paths": [
         "skills/geg/SKILL.md"
       ],
@@ -497,7 +497,7 @@
       "branch": "main",
       "description": "humangrant",
       "archived": false,
-      "sha": "c4a730480d2aae93a636889a144a025fe98becb8",
+      "sha": "6de84d9d9ba04ed875514d9db4959be6bc7b7dc6",
       "paths": [
         "skills/humangrant-integrate/SKILL.md",
         "skills/humangrant-use/SKILL.md"
@@ -509,7 +509,7 @@
       "branch": "main",
       "description": "自动更新的 GitHub 项目索引 · Searchable project directory",
       "archived": false,
-      "sha": "71f47760c6622a0e6eae7c97ff25c9517f91031d",
+      "sha": "01bbcf2ca6072ca8b0fa870cb5e366d55ba39d62",
       "paths": [],
       "truncated": false
     },
@@ -536,7 +536,7 @@
       "branch": "main",
       "description": "is a programmable, node-based AI workflow engine built for developers. It enables orchestrating complex AI coding and automation pipelines via code-defined graphs, featuring native CLI tools and full Model Context Protocol (MCP) support.",
       "archived": false,
-      "sha": "186d905b3200fcf7b24ca6847badc480ab4f0a9e",
+      "sha": "3a654bbe92480b8372d4152967be67e0fa18df41",
       "paths": [],
       "truncated": false
     },
@@ -570,7 +570,7 @@
       "branch": "main",
       "description": null,
       "archived": false,
-      "sha": "1409553186f27358c19e2d54465f63fb6a700c15",
+      "sha": "78a1396b6204211a661c28b63eb1dfc4db4d35a3",
       "paths": [
         "workflows/image_edit/.agent/skills/lightflow-flux-image-edit/SKILL.md",
         "workflows/inpaint/.agent/skills/lightflow-flux-inpaint/SKILL.md",
@@ -641,7 +641,7 @@
       "branch": "main",
       "description": "I'M LIghtJUNction",
       "archived": false,
-      "sha": "d226f161ca915dd534b13b8ffc69d60f4e894775",
+      "sha": "322ec3e76108e60c554a3d1342887e96ffcef5ba",
       "paths": [
         ".agents/skills/agentmail-email/SKILL.md",
         ".agents/skills/bilibili-social/SKILL.md",
@@ -658,7 +658,7 @@
       "branch": "main",
       "description": "An experiment",
       "archived": false,
-      "sha": "0c54372e6925ec6ed7fc3ae74947df1723244979",
+      "sha": "0ff23032241622bd3d4bf3d0acca5c4fd7e13487",
       "paths": [],
       "truncated": false
     },
@@ -687,7 +687,7 @@
       "branch": "main",
       "description": "ohhhh.",
       "archived": false,
-      "sha": "65ad36306eb4d1689336b9b8c75a9107771650ca",
+      "sha": "20c975d432f68e36dd94a733a1db2e388d5ec58e",
       "paths": [],
       "truncated": false
     },
@@ -696,7 +696,7 @@
       "branch": "main",
       "description": "MagicNet-mihomo",
       "archived": false,
-      "sha": "ecabba67acf30c1641978459320cca1f3de64900",
+      "sha": "471378e89c855857e78b94e6857bbdc181d7919a",
       "paths": [],
       "truncated": false
     },
@@ -705,7 +705,7 @@
       "branch": "main",
       "description": "Consciously set all groups to block",
       "archived": false,
-      "sha": "2dbb13e49f989506ac43f05d35945366843757d1",
+      "sha": "17fe0559c83d6dec80059cc41d030ca1a0922410",
       "paths": [
         ".agents/skills/android-cli/SKILL.md",
         ".agents/skills/kamfw/SKILL.md",
@@ -721,7 +721,7 @@
       "branch": "main",
       "description": "MagicNet Android implementation source, pinned by the MagicNet recipe repository.",
       "archived": false,
-      "sha": "dc4433d1cfbeade114d51f3f3c429378d3d7b68d",
+      "sha": "5edd36babcb3f1072c264015659d7e0ad45a575f",
       "paths": [
         ".agents/skills/android-cli/SKILL.md",
         ".agents/skills/kamfw/SKILL.md",
@@ -745,7 +745,7 @@
       "branch": "main",
       "description": "Maintained, deduplicated and optimized sing-box rule sets for MagicNet",
       "archived": false,
-      "sha": "693f1b08ffffe57aaa93058c9e58c362d2f3a3b1",
+      "sha": "c4ad0a94f35af2b7950b47362e1c23e583209790",
       "paths": [],
       "truncated": false
     },
@@ -772,7 +772,7 @@
       "branch": "main",
       "description": "Reversible, agent-directed context folding for Magpie with cache-aware cost guards",
       "archived": false,
-      "sha": "20dfb52a20d8cb25a0205f79306c190dbc27c15f",
+      "sha": "27225935a26205487489e4cfc5a298fe9b8022ef",
       "paths": [
         "context-folding/skills/context-folding/SKILL.md",
         "context-folding/skills/source-fold-markers/SKILL.md"
@@ -802,7 +802,7 @@
       "branch": "main",
       "description": null,
       "archived": false,
-      "sha": "378a5465490f71da1bcd00a4292081231a023786",
+      "sha": "800d0fefbf59e0f3ce310ba574eb30f51a781cae",
       "paths": [
         "skills/markref/SKILL.md"
       ],
@@ -849,7 +849,7 @@
       "branch": "main",
       "description": "Unofficial MECHREVO Linux platform drivers, based on TUXEDO drivers, with stable upstream release sync",
       "archived": false,
-      "sha": "ae8bf7f42b13d04c081613d836f0e15a93c5b06f",
+      "sha": "9f76c3d72d4b85dff7f5821282693e77ca7a6733",
       "paths": [
         "docs/skills/mechrevo-verification/SKILL.md"
       ],
@@ -891,7 +891,7 @@
       "branch": "main",
       "description": "oxygen not included",
       "archived": false,
-      "sha": "c56ecedecb40d632308985af1c42a57669b59387",
+      "sha": "9ac56a104c25bd5f07235474f1d8ae9378f016df",
       "paths": [
         ".agents/skills/bilibili-live-comments/SKILL.md",
         ".agents/skills/oni-dupe-status-check/SKILL.md",
@@ -971,7 +971,7 @@
       "branch": "main",
       "description": "Let Pi agents reload their runtime through a single tool",
       "archived": false,
-      "sha": "483f8a1249941c6418753e6b439c2fb4cf7e51c1",
+      "sha": "fc91a9f77ddff94e0f5ed4484eecfba993671fe2",
       "paths": [],
       "truncated": false
     },
@@ -1003,7 +1003,7 @@
       "branch": "main",
       "description": "Generated implementation for the RstrBot recipe project",
       "archived": false,
-      "sha": "1b15852ec6179a5ed16356ac28a24b4126090d7b",
+      "sha": "e87b28cee818770dcffbb4d951c9d90feaf677fe",
       "paths": [
         ".agents/skills/rstrbot-development/SKILL.md",
         ".agents/skills/rstrbot-plugin-development/SKILL.md"
@@ -1015,7 +1015,7 @@
       "branch": "main",
       "description": " A KernelPatch module that provides a baseline SELinux policy view for Android userspace queries.",
       "archived": false,
-      "sha": "a84b17cbb07247d6c1f58d4c1d1498942c75c802",
+      "sha": "54ab49e19ccfef13f96e2ae3d6d9074244e2d81a",
       "paths": [],
       "truncated": false
     },
@@ -1024,7 +1024,7 @@
       "branch": "main",
       "description": "实现了 Android 标准截屏通知的全局拦截",
       "archived": false,
-      "sha": "c8e5c35c64820bf1f1180e2da47b8accf4163443",
+      "sha": "534cb623b5b7128a7f8a5beffa39f6ebb4ce8a59",
       "paths": [],
       "truncated": false
     },
@@ -1044,7 +1044,7 @@
       "branch": "main",
       "description": "System One decisions for shell pipelines — Rust CLI, local relay and typed Python SDK",
       "archived": false,
-      "sha": "f75a509f3a994af36d1d2a056ab5ca2a102c9800",
+      "sha": "0a7ff8e66f1860f05c5aee4ce95e23c185025069",
       "paths": [],
       "truncated": false
     },
@@ -1074,7 +1074,7 @@
       "branch": "main",
       "description": "A cinematic Minecraft Java shader pack for Iris with an OptiFine-compatible layout.",
       "archived": false,
-      "sha": "5162f95d2276fa42b2be096ce71feb49be86fa77",
+      "sha": "5d54adf2f84bf31996ea7dbd153cfcdc79fdbba1",
       "paths": [],
       "truncated": false
     },
@@ -1094,7 +1094,7 @@
       "branch": "main",
       "description": "A fluid, extensible Wayland desktop shell built around niri.",
       "archived": false,
-      "sha": "c2555c5b2d3e9f3ea989a9264ccabd9da016de85",
+      "sha": "e08c2dfca75995272c2eb95adf427a5320591726",
       "paths": [],
       "truncated": false
     },
@@ -1103,7 +1103,7 @@
       "branch": "main",
       "description": "RISE: recursive X and GitHub growth experiments, based on X open-source ranking code and honest quality measurement",
       "archived": false,
-      "sha": "e434e3b565e916e4025c6cb4da258def9320e7a5",
+      "sha": "734bfc941ee3a3fff47c44e3bd24cf48bfb01e19",
       "paths": [
         "SKILL.md"
       ],
@@ -1123,7 +1123,7 @@
       "branch": "main",
       "description": null,
       "archived": false,
-      "sha": "087fcf28a1e050dbbbbee678463dbbe233f337d7",
+      "sha": "7e9cff67beae2c484f8b9749b83ae24a1d0e1bbd",
       "paths": [],
       "truncated": false
     },
@@ -1132,7 +1132,7 @@
       "branch": "main",
       "description": "A protocol-independent, caller-buffered AI call kernel for harness software.",
       "archived": false,
-      "sha": "f7c3b6d7a663e1bc8801d0d27732595a4ad424b5",
+      "sha": "75845257c99d3fb8443f58d8ae1b44895a4acbee",
       "paths": [],
       "truncated": false
     },
@@ -1159,7 +1159,7 @@
       "branch": "main",
       "description": "Microsecond-level AI Protocol Converter",
       "archived": false,
-      "sha": "5c35f4d98ac61fcf331ef010defd40403f274acc",
+      "sha": "5c1e0eb8a3b3119ce5dd1af7a377605372241d50",
       "paths": [],
       "truncated": false
     },
@@ -1168,7 +1168,7 @@
       "branch": "main",
       "description": null,
       "archived": false,
-      "sha": "b0103b019dc4797f717249bc10dddb0d088a47b3",
+      "sha": "c046e3182b0adf15d43500400a427b7dd7389525",
       "paths": [],
       "truncated": false
     },
@@ -1177,7 +1177,7 @@
       "branch": "main",
       "description": null,
       "archived": false,
-      "sha": "d363c1096f09538ae0ac08536bb051ed98fec0e6",
+      "sha": "2e7d37e9cb30537cae84dda2837739f286b03c23",
       "paths": [],
       "truncated": false
     },
@@ -1186,7 +1186,7 @@
       "branch": "main",
       "description": null,
       "archived": false,
-      "sha": "3f321f283660f0ade580ffaca1b2fdea14994055",
+      "sha": "09dfaa0adee628d0714e2f9e96921555e619b2f6",
       "paths": [],
       "truncated": false
     },
@@ -1204,7 +1204,7 @@
       "branch": "main",
       "description": null,
       "archived": false,
-      "sha": "c82087dd598955ad34e8edbd51732e45586e3ed5",
+      "sha": "d90e02d2ed107c6ede7ad4a56bfe329c82eb4fe8",
       "paths": [],
       "truncated": false
     },
@@ -1213,7 +1213,7 @@
       "branch": "main",
       "description": null,
       "archived": false,
-      "sha": "8e2da44576401d1ae7c1c477eb0bf59f81637150",
+      "sha": "9888b1c644b1b4805e7a5b48e8199cfe890c8553",
       "paths": [],
       "truncated": false
     },
@@ -1222,7 +1222,7 @@
       "branch": "main",
       "description": null,
       "archived": false,
-      "sha": "8ccddbeb4b796e1c081404656599fe2b7f37bd61",
+      "sha": "2d5930955ed8086e12a6ab6cd3dd5caa837e1a42",
       "paths": [],
       "truncated": false
     },
@@ -1231,7 +1231,7 @@
       "branch": "main",
       "description": null,
       "archived": false,
-      "sha": "a1a8341150c58767b2f5a9a4124f6ff1c8dadf20",
+      "sha": "76114e0cbc5e5e01d84b9945322f9d592bf02477",
       "paths": [],
       "truncated": false
     },
@@ -1254,11 +1254,20 @@
       "truncated": false
     },
     {
+      "repo": "LIghtJUNction/zsys",
+      "branch": "main",
+      "description": null,
+      "archived": false,
+      "sha": "1d8ad3f9cd774ae20ba824d78c8af46a13bb8c93",
+      "paths": [],
+      "truncated": false
+    },
+    {
       "repo": "LIghtJUNction/zvte",
       "branch": "main",
       "description": null,
       "archived": false,
-      "sha": "a7f8bb82cb35d3da3b327a143c38e10b0f59d84e",
+      "sha": "b4e50a5cde476fb5303060f3ecbc9200ccea5cc0",
       "paths": [],
       "truncated": false
     }
