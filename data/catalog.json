@@ -1,6 +1,6 @@
 {
   "owner": "LIghtJUNction",
-  "checked_at": "2026-11-17T02:28:31.997757+00:00",
+  "checked_at": "2026-11-18T02:28:30.309575+00:00",
   "repositories": [
     {
       "repo": "LIghtJUNction/ace5-kernelsu-next-susfs",
@@ -85,7 +85,7 @@
       "branch": "main",
       "description": "Experimental LSPosed / Vector WUA compatibility module for selected Taobao and Idlefish security libraries",
       "archived": false,
-      "sha": "7d18e1f3d7fa920f908fc95d24d19f396c3a69ad",
+      "sha": "c140d595a4bcdc0e77f7f5ef723e45c39a1ff55f",
       "paths": [],
       "truncated": false
     },
@@ -465,6 +465,15 @@
       "truncated": false
     },
     {
+      "repo": "LIghtJUNction/dessa",
+      "branch": "main",
+      "description": "dessa cli",
+      "archived": false,
+      "sha": "805741edb04fd5473150dcf6f1d5ca5d9a0d98be",
+      "paths": [],
+      "truncated": false
+    },
+    {
       "repo": "LIghtJUNction/douyin",
       "branch": "main",
       "description": "抖音非官方sdk/命令行工具",
@@ -604,6 +613,15 @@
       "truncated": false
     },
     {
+      "repo": "LIghtJUNction/fkclaude",
+      "branch": "main",
+      "description": null,
+      "archived": false,
+      "sha": "007a976bbbf6c02e9564366a7c92925dfe50e345",
+      "paths": [],
+      "truncated": false
+    },
+    {
       "repo": "LIghtJUNction/geg",
       "branch": "main",
       "description": "Geg Embeds Gemma — offline semantic grep for local code and text with EmbeddingGemma 2",
@@ -690,7 +708,7 @@
       "branch": "main",
       "description": "humangrant",
       "archived": false,
-      "sha": "6de84d9d9ba04ed875514d9db4959be6bc7b7dc6",
+      "sha": "3b47b8aff82d854b24b93d95c66cc484a325f3b3",
       "paths": [
         "skills/humangrant-integrate/SKILL.md",
         "skills/humangrant-use/SKILL.md"
@@ -702,7 +720,7 @@
       "branch": "main",
       "description": "自动更新的 GitHub 项目索引 · Searchable project directory",
       "archived": false,
-      "sha": "5c1b47bbc96c599d836ae3210699b2b5dcece8d1",
+      "sha": "94fbe1284e90499b8dbaeaacdfbcf2ab09a87490",
       "paths": [],
       "truncated": false
     },
@@ -834,7 +852,7 @@
       "branch": "main",
       "description": "I'M LIghtJUNction",
       "archived": false,
-      "sha": "cb695ae5850e38b3599e57376a4a1430c1ba7d8e",
+      "sha": "b863e60effea54eb9ae660222bff85d8a3f078a4",
       "paths": [
         ".agents/skills/agentmail-email/SKILL.md",
         ".agents/skills/lmm-best-service-page/SKILL.md",
@@ -897,7 +915,7 @@
       "branch": "main",
       "description": "MagicNet-mihomo",
       "archived": false,
-      "sha": "212f275a1358961c99b6b58806153bac771ceeb2",
+      "sha": "63f01ab3d982f157ca6ffec53d9a0d4439fa52fd",
       "paths": [],
       "truncated": false
     },
@@ -906,7 +924,7 @@
       "branch": "main",
       "description": "Consciously set all groups to block",
       "archived": false,
-      "sha": "5cf0811fa1985f0ce434bd9c25365731909c7bae",
+      "sha": "1413171c3f2d2526924d850680b0955abe1b1bc1",
       "paths": [
         ".agents/skills/android-cli/SKILL.md",
         ".agents/skills/kamfw/SKILL.md",
@@ -922,7 +940,7 @@
       "branch": "main",
       "description": "MagicNet Android implementation source, pinned by the MagicNet recipe repository.",
       "archived": false,
-      "sha": "c5a1368639da929ae619a5a74444dc79e657618a",
+      "sha": "a25eb7cb8eb2697ec140e3a5877c9cfe4ccf392b",
       "paths": [
         ".agents/skills/android-cli/SKILL.md",
         ".agents/skills/kamfw/SKILL.md",
@@ -1182,7 +1200,7 @@
       "branch": "main",
       "description": null,
       "archived": false,
-      "sha": "00a285deb46938650f70daf7c952164e45412407",
+      "sha": "bdf187f87797e717155712a825d52a77ad36b2b9",
       "paths": [],
       "truncated": false
     },
@@ -1255,7 +1273,7 @@
       "branch": "main",
       "description": "👀remote",
       "archived": false,
-      "sha": "b6a19100355e74b220275bb57159ec76cdde1e53",
+      "sha": "95b5f26125ede8825f12feb79b7f870055d004b5",
       "paths": [
         "skills/ssmcp/SKILL.md"
       ],
@@ -1316,7 +1334,7 @@
       "branch": "main",
       "description": "RISE: recursive X and GitHub growth experiments, based on X open-source ranking code and honest quality measurement",
       "archived": false,
-      "sha": "eee0da367f0da3df6633a1535faab9188656ddef",
+      "sha": "2320668716cf4aca8f5076439de753e835eb9954",
       "paths": [
         "SKILL.md"
       ],
@@ -1630,6 +1648,15 @@
       "description": null,
       "archived": false,
       "sha": "1d8ad3f9cd774ae20ba824d78c8af46a13bb8c93",
+      "paths": [],
+      "truncated": false
+    },
+    {
+      "repo": "LIghtJUNction/ztty",
+      "branch": "main",
+      "description": "A lean no_std Rust terminal for Linux, built on Project Z.",
+      "archived": false,
+      "sha": "f9de339a48f999817fd7492191c9676eabcbf109",
       "paths": [],
       "truncated": false
     },
