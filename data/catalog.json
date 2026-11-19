@@ -1,6 +1,6 @@
 {
   "owner": "LIghtJUNction",
-  "checked_at": "2026-11-18T02:28:30.309575+00:00",
+  "checked_at": "2026-11-19T02:28:15.422303+00:00",
   "repositories": [
     {
       "repo": "LIghtJUNction/ace5-kernelsu-next-susfs",
@@ -478,7 +478,7 @@
       "branch": "main",
       "description": "抖音非官方sdk/命令行工具",
       "archived": false,
-      "sha": "dc6df4db1adabae25fe3a92d5b9f4a5c107cf085",
+      "sha": "904f076b2b2282c0fcdb479d62f806a071f55931",
       "paths": [
         ".agents/skills/douyin/SKILL.md"
       ],
@@ -720,7 +720,7 @@
       "branch": "main",
       "description": "自动更新的 GitHub 项目索引 · Searchable project directory",
       "archived": false,
-      "sha": "94fbe1284e90499b8dbaeaacdfbcf2ab09a87490",
+      "sha": "97f335e27b477343a88576f0cedd166d9a184678",
       "paths": [],
       "truncated": false
     },
@@ -915,7 +915,7 @@
       "branch": "main",
       "description": "MagicNet-mihomo",
       "archived": false,
-      "sha": "63f01ab3d982f157ca6ffec53d9a0d4439fa52fd",
+      "sha": "1e857fbfc8132330a96aedc5eff859eb911fedb8",
       "paths": [],
       "truncated": false
     },
@@ -924,7 +924,7 @@
       "branch": "main",
       "description": "Consciously set all groups to block",
       "archived": false,
-      "sha": "1413171c3f2d2526924d850680b0955abe1b1bc1",
+      "sha": "9a9fb8688fae6418e2b6b0d18330057f829cf5bf",
       "paths": [
         ".agents/skills/android-cli/SKILL.md",
         ".agents/skills/kamfw/SKILL.md",
@@ -940,7 +940,7 @@
       "branch": "main",
       "description": "MagicNet Android implementation source, pinned by the MagicNet recipe repository.",
       "archived": false,
-      "sha": "a25eb7cb8eb2697ec140e3a5877c9cfe4ccf392b",
+      "sha": "75da8b3064350dd335844da1957cd45b6c347f9c",
       "paths": [
         ".agents/skills/android-cli/SKILL.md",
         ".agents/skills/kamfw/SKILL.md",
@@ -1273,7 +1273,7 @@
       "branch": "main",
       "description": "👀remote",
       "archived": false,
-      "sha": "95b5f26125ede8825f12feb79b7f870055d004b5",
+      "sha": "e63994e6e6fc6251935005428493df135b5ede34",
       "paths": [
         "skills/ssmcp/SKILL.md"
       ],
@@ -1334,7 +1334,7 @@
       "branch": "main",
       "description": "RISE: recursive X and GitHub growth experiments, based on X open-source ranking code and honest quality measurement",
       "archived": false,
-      "sha": "2320668716cf4aca8f5076439de753e835eb9954",
+      "sha": "7fd9a9a0e597edff8ed3caf1225d9b6c81e9c1b9",
       "paths": [
         "SKILL.md"
       ],
@@ -1656,7 +1656,16 @@
       "branch": "main",
       "description": "A lean no_std Rust terminal for Linux, built on Project Z.",
       "archived": false,
-      "sha": "f9de339a48f999817fd7492191c9676eabcbf109",
+      "sha": "eb230f482e76a82c3318808905f10f670949e411",
+      "paths": [],
+      "truncated": false
+    },
+    {
+      "repo": "LIghtJUNction/ztui",
+      "branch": "main",
+      "description": "Dependency-free no_std text layout, terminal geometry, and ANSI frame-diff primitives.",
+      "archived": false,
+      "sha": "07ad614303c07089cd9113bd8809020f545adc88",
       "paths": [],
       "truncated": false
     },
