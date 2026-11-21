@@ -1,6 +1,6 @@
 {
   "owner": "LIghtJUNction",
-  "checked_at": "2026-11-20T02:27:51.696723+00:00",
+  "checked_at": "2026-11-21T02:27:57.341340+00:00",
   "repositories": [
     {
       "repo": "LIghtJUNction/ace5-kernelsu-next-susfs",
@@ -117,7 +117,7 @@
       "branch": "main",
       "description": "AndroidUse module loader",
       "archived": false,
-      "sha": "b1e91a79889b3c545780760a29839f44a6e2ee79",
+      "sha": "248019d3ce9edc4d1d0720fef2ff79e0c335c6ef",
       "paths": [],
       "truncated": false
     },
@@ -244,7 +244,7 @@
       "branch": "main",
       "description": "BossKit",
       "archived": false,
-      "sha": "f4b83b59b7e7c254ce2083f4f0e64bcf02aa69ec",
+      "sha": "eef9a1a82223da48901f6541091ea810860dcfd6",
       "paths": [
         ".agents/skills/resume-application/SKILL.md",
         ".agents/skills/resume-screening/SKILL.md"
@@ -256,7 +256,7 @@
       "branch": "main",
       "description": "Deterministic source-code compression density analysis",
       "archived": false,
-      "sha": "6c6692318b96178a83d3a9cdae5d6abd2c01ea50",
+      "sha": "64a23d1db979d4ec777b80c2cb9f76a51ca60909",
       "paths": [
         ".agents/skills/codensity/SKILL.md"
       ],
@@ -267,7 +267,7 @@
       "branch": "main",
       "description": "codex sync",
       "archived": false,
-      "sha": "70381f032eff84c3c19c8219f07d3940d4a4f2e5",
+      "sha": "4e2762f60e51eb83485df7d1568dfa0bff7dd75a",
       "paths": [
         ".agents/skills/sync-codex-records/SKILL.md"
       ],
@@ -278,7 +278,7 @@
       "branch": "main",
       "description": "Standalone Rust CLI for Coolapk — search, browse, authenticate and post with JSON output",
       "archived": false,
-      "sha": "dfddd28b597400604461536e59292433610ac7e5",
+      "sha": "cf0dfcbf965a46df75a695143a5e3051ab8fbeff",
       "paths": [
         ".agents/skills/coolapk-post/SKILL.md",
         ".agents/skills/coolapk-search/SKILL.md",
@@ -460,7 +460,7 @@
       "branch": "main",
       "description": "Astrbot Dashboard",
       "archived": false,
-      "sha": "8ee87fb737a97e15a86cf94c756ebdad381f2373",
+      "sha": "ab54b737c9b90d0ed8337fab348b1975bb72070d",
       "paths": [],
       "truncated": false
     },
@@ -518,7 +518,7 @@
       "branch": "main",
       "description": "Reversible context folding for DeepSeek Harness",
       "archived": false,
-      "sha": "e48a4bb37dc1edafa223552f66dd4f95a27413a2",
+      "sha": "3141e803cffe2f7791fd271cf8b8816bac6a096f",
       "paths": [],
       "truncated": false
     },
@@ -608,7 +608,7 @@
       "branch": "main",
       "description": null,
       "archived": false,
-      "sha": "55fef25f2170f1f21b347ba3052ead93e790b8a6",
+      "sha": "ce023dbc7c9d8850feb8d65b71d4c716e2c786e6",
       "paths": [],
       "truncated": false
     },
@@ -637,7 +637,7 @@
       "branch": "main",
       "description": "Human vs. AI Go, powered by WebMCP",
       "archived": false,
-      "sha": "381c4245dff57453437f42883cd0a74742090966",
+      "sha": "58c978ecd1e406f621f47242d32a6e017fc83524",
       "paths": [],
       "truncated": false
     },
@@ -720,7 +720,7 @@
       "branch": "main",
       "description": "自动更新的 GitHub 项目索引 · Searchable project directory",
       "archived": false,
-      "sha": "2da9a3a5416493bbd022b4239023e5b8b20a69a6",
+      "sha": "53e41e1261b3853629af514f2a9e2ac7e7eee3fd",
       "paths": [],
       "truncated": false
     },
@@ -729,7 +729,7 @@
       "branch": "main",
       "description": "Laboratory Safety Management Information System",
       "archived": false,
-      "sha": "5126d8505ebb9ab3a96a4fae1c568c3b72c27f03",
+      "sha": "8aa1674daf001905e8911a106ddba035bbd1f51f",
       "paths": [],
       "truncated": false
     },
@@ -738,7 +738,7 @@
       "branch": "main",
       "description": "Frontend for the Laboratory Safety Management Information System",
       "archived": false,
-      "sha": "b07dfdca58358a820b71ff7c716bef4fdcc151ab",
+      "sha": "9529c575f43534b93f0c48cc251bf63d8df0cc40",
       "paths": [],
       "truncated": false
     },
@@ -747,7 +747,7 @@
       "branch": "main",
       "description": "is a programmable, node-based AI workflow engine built for developers. It enables orchestrating complex AI coding and automation pipelines via code-defined graphs, featuring native CLI tools and full Model Context Protocol (MCP) support.",
       "archived": false,
-      "sha": "189a12577b829176a780bf385e1d222e634dd04e",
+      "sha": "ba52a3cfdd234eeb0206d70d02e63c59aeb478c0",
       "paths": [],
       "truncated": false
     },
@@ -781,7 +781,7 @@
       "branch": "main",
       "description": null,
       "archived": false,
-      "sha": "87cade0dc4188818d9cf7ee1356103a264bd9be0",
+      "sha": "748dc404c94003e4aa9472456248408b011f2c50",
       "paths": [
         "workflows/image_edit/.agent/skills/lightflow-flux-image-edit/SKILL.md",
         "workflows/inpaint/.agent/skills/lightflow-flux-inpaint/SKILL.md",
@@ -906,7 +906,7 @@
       "branch": "main",
       "description": "ohhhh.",
       "archived": false,
-      "sha": "20c975d432f68e36dd94a733a1db2e388d5ec58e",
+      "sha": "24c511a056c928f13ccfc65ee5e0bd6b533886a6",
       "paths": [],
       "truncated": false
     },
@@ -915,7 +915,7 @@
       "branch": "main",
       "description": "MagicNet-mihomo",
       "archived": false,
-      "sha": "33e6c91f65b3cac746d86cbc53ab16e8b4477ae5",
+      "sha": "e907a9fcad3923dec8bcd214c92bf4e598fbb60f",
       "paths": [],
       "truncated": false
     },
@@ -924,7 +924,7 @@
       "branch": "main",
       "description": "Consciously set all groups to block",
       "archived": false,
-      "sha": "63f6fc1408aec8f9b958431532b3d1a89de08b3f",
+      "sha": "a8272cb1df86757f28a8689e2be93e194f1066f0",
       "paths": [
         ".agents/skills/android-cli/SKILL.md",
         ".agents/skills/kamfw/SKILL.md",
@@ -940,7 +940,7 @@
       "branch": "main",
       "description": "MagicNet Android implementation source, pinned by the MagicNet recipe repository.",
       "archived": false,
-      "sha": "edf2d9926e9a71000667596c9f80edd547e96363",
+      "sha": "387fe9ec7aba14033e2c6ac1c23dca19ae6bff8d",
       "paths": [
         ".agents/skills/android-cli/SKILL.md",
         ".agents/skills/kamfw/SKILL.md",
@@ -991,7 +991,7 @@
       "branch": "main",
       "description": "Reversible, agent-directed context folding for Magpie with cache-aware cost guards",
       "archived": false,
-      "sha": "5f0066424f3218a2b6545d50e1d0a9aead1aa67d",
+      "sha": "cf571b9733f7ac68d5233db6d37b828d8350e893",
       "paths": [
         ".agents/skills/context-folding/SKILL.md",
         "context-folding/skills/context-folding/SKILL.md",
@@ -1013,7 +1013,7 @@
       "branch": "main",
       "description": "Rust implementation of Magpie with a CLI, local gateway prototype, GPUI desktop shell, and reproducible benchmarks.",
       "archived": false,
-      "sha": "43536e6d4f117c5e138922fa7f99e2d63cc28647",
+      "sha": "8aef4dc63960863799669005f767f774804c26c4",
       "paths": [],
       "truncated": false
     },
@@ -1022,7 +1022,7 @@
       "branch": "main",
       "description": null,
       "archived": false,
-      "sha": "800d0fefbf59e0f3ce310ba574eb30f51a781cae",
+      "sha": "d17f33f6a888487adc1feeebcc82f55990af9c17",
       "paths": [
         "skills/markref/SKILL.md"
       ],
@@ -1057,7 +1057,7 @@
       "branch": "main",
       "description": null,
       "archived": false,
-      "sha": "d9dacc4e88bd176a734e38bd0b23b96b480f7b09",
+      "sha": "243131b458c825ad61be152525be82755f1d2fc1",
       "paths": [
         ".agents/skills/matrixpost-operations/SKILL.md",
         ".agents/skills/operating-intelligence/SKILL.md"
@@ -1069,7 +1069,7 @@
       "branch": "main",
       "description": "Unofficial MECHREVO Linux platform drivers, based on TUXEDO drivers, with stable upstream release sync",
       "archived": false,
-      "sha": "4599a3825dac3c85efeeb490cb4eebe1c1b6dff0",
+      "sha": "eb2959aac4efa7edd12ebc8bd8b040108e285dc8",
       "paths": [
         "docs/skills/mechrevo-verification/SKILL.md"
       ],
@@ -1089,7 +1089,7 @@
       "branch": "main",
       "description": "VLESS + Reality + Hysteria2 + XTLS-Vision/xhttp",
       "archived": false,
-      "sha": "72263799b8d310e15366fccc844ec4a021adb642",
+      "sha": "4d7370f21d4fbf285c1cefec08949cabbce1d337",
       "paths": [],
       "truncated": false
     },
@@ -1098,7 +1098,16 @@
       "branch": "main",
       "description": "A lean, AI-native Linux terminal suite built on Project Z",
       "archived": false,
-      "sha": "740b82f3a1628d0c14b0405bfb36c76832fedfec",
+      "sha": "f04f6ea8ae909e121edabbd766ee725a472f8146",
+      "paths": [],
+      "truncated": false
+    },
+    {
+      "repo": "LIghtJUNction/omarchy-project-bees",
+      "branch": "main",
+      "description": "Native Omarchy dashboard for Git repository deduplication on Btrfs",
+      "archived": false,
+      "sha": "5f37b739e236842f89376f3f61e19b0d984c6cbd",
       "paths": [],
       "truncated": false
     },
@@ -1129,7 +1138,7 @@
       "branch": "main",
       "description": "oxygen not included",
       "archived": false,
-      "sha": "14dba75a5752c3142039a8660ce37cdf57d7082a",
+      "sha": "9d2ffb4f749919f513313d603daeed5a6767195b",
       "paths": [
         ".agents/skills/bilibili-live-comments/SKILL.md",
         ".agents/skills/oni-dupe-status-check/SKILL.md",
@@ -1209,7 +1218,25 @@
       "branch": "main",
       "description": "Let Pi agents reload their runtime through a single tool",
       "archived": false,
-      "sha": "fc91a9f77ddff94e0f5ed4484eecfba993671fe2",
+      "sha": "4b22923abeb18a82da108a2353422e85ea26e4a1",
+      "paths": [],
+      "truncated": false
+    },
+    {
+      "repo": "LIghtJUNction/project-z",
+      "branch": "main",
+      "description": "Project Z coordinated source snapshots, dependency checks and integration workflows",
+      "archived": false,
+      "sha": "be64e5ab88a8d72fe81956f6ba64a363e2299fde",
+      "paths": [],
+      "truncated": false
+    },
+    {
+      "repo": "LIghtJUNction/project-z-site",
+      "branch": "main",
+      "description": "Project Z — public project introduction and catalog.",
+      "archived": false,
+      "sha": "5bdd99dc749de86482f1bafb525693c2acc66b85",
       "paths": [],
       "truncated": false
     },
@@ -1291,7 +1318,7 @@
       "branch": "main",
       "description": "👀remote",
       "archived": false,
-      "sha": "7fcccdde53d2b977172f0d1012fd641958435854",
+      "sha": "f33ed8f14fc14aff05a2e4098743eb07e8527c06",
       "paths": [
         "skills/ssmcp/SKILL.md"
       ],
@@ -1332,7 +1359,7 @@
       "branch": "main",
       "description": "video-work-api",
       "archived": false,
-      "sha": "70efc0126726b8619e1edee252bacb504353df1c",
+      "sha": "b89ab69263a7f27791b16ddb5372c45edd6fc0f9",
       "paths": [
         ".agents/skills/video-work-api/SKILL.md"
       ],
@@ -1343,7 +1370,7 @@
       "branch": "main",
       "description": "A fluid, extensible Wayland desktop shell built around niri.",
       "archived": false,
-      "sha": "e08c2dfca75995272c2eb95adf427a5320591726",
+      "sha": "6a79f3f59d80456d6930566fe7fe8687177ec209",
       "paths": [],
       "truncated": false
     },
@@ -1352,7 +1379,7 @@
       "branch": "main",
       "description": "RISE: recursive X and GitHub growth experiments, based on X open-source ranking code and honest quality measurement",
       "archived": false,
-      "sha": "9ec611e1d285775d73bb4c014e7bcea40461d2ec",
+      "sha": "9197cb4346bd215945104a3b0fd5b2d14ffb1f4f",
       "paths": [
         "SKILL.md"
       ],
@@ -1539,7 +1566,7 @@
       "branch": "main",
       "description": "A protocol-independent, caller-buffered AI call kernel for harness software.",
       "archived": false,
-      "sha": "8fb84b812b8025e34399b28e27242605d68ea345",
+      "sha": "317c52f101f112c6af671a629d8406305a168e4a",
       "paths": [],
       "truncated": false
     },
@@ -1548,7 +1575,7 @@
       "branch": "main",
       "description": "Native Project Z control panel for the zcalld local AI gateway",
       "archived": false,
-      "sha": "5dbc423eedd4d529a38b3e8e3adc3e6355a56b2b",
+      "sha": "2593369b2e9695a4a4cabed20eb80bee01fc419c",
       "paths": [],
       "truncated": false
     },
@@ -1557,7 +1584,7 @@
       "branch": "main",
       "description": "A lightweight Omarchy front end for the zcalld local AI gateway",
       "archived": false,
-      "sha": "78282c3c3cfa6e9e65e2cbd654f38a96398c6e03",
+      "sha": "7db52e74ceb6c9d398791406e01265eecc127f87",
       "paths": [],
       "truncated": false
     },
@@ -1566,7 +1593,7 @@
       "branch": "main",
       "description": "Compact Linux-native AI gateway powered by zcall and zplugin",
       "archived": false,
-      "sha": "86e9d39ddc608ead4677aaa73e1ef6528ba7f31e",
+      "sha": "0b7d7b386363bc71dfbb4e0d78033da7819db17b",
       "paths": [],
       "truncated": false
     },
@@ -1575,7 +1602,7 @@
       "branch": "main",
       "description": "Optional Magpie-compatible privacy and community plugin adapters for zcalld",
       "archived": false,
-      "sha": "59802d4286188ee95ae99c10c44ac51c8e895fdc",
+      "sha": "56a15b330384531b3a6c444190f53b6d3720bd5e",
       "paths": [],
       "truncated": false
     },
@@ -1593,7 +1620,7 @@
       "branch": "main",
       "description": "An extremely fast Python library for building command-line applications.",
       "archived": false,
-      "sha": "530e2f347d2950605ee579a396d5760ebad034bd",
+      "sha": "b90a118e8ae72ebd45dd8fc2a4ec188c142439ec",
       "paths": [],
       "truncated": false
     },
@@ -1620,7 +1647,7 @@
       "branch": "main",
       "description": "A no_std Linux dotfiles manager built on Project Z",
       "archived": false,
-      "sha": "d8084d4ae55a24113f56335e8b584b5f13d91925",
+      "sha": "a3c6a75b1e66747822b9b69d9e046d2aac249210",
       "paths": [],
       "truncated": false
     },
@@ -1638,7 +1665,7 @@
       "branch": "main",
       "description": "A tiny no_std Linux system summary for Project Z, with zero dependencies.",
       "archived": false,
-      "sha": "8f8f6fd6f1f4894829aecab2e9d33d8e77a8fb92",
+      "sha": "f0614f3b76eca222f4b3880f8dd1707d1308f098",
       "paths": [],
       "truncated": false
     },
@@ -1647,7 +1674,7 @@
       "branch": "main",
       "description": "Platform-independent no_std UI scenes, layout and renderer contracts for Project Z",
       "archived": false,
-      "sha": "1d796d1fc63808dc099ed7b10c92e75835ae2814",
+      "sha": "b4d5493e0cd985d00558c7be0b5726965ab5163a",
       "paths": [],
       "truncated": false
     },
@@ -1656,7 +1683,16 @@
       "branch": "main",
       "description": "Bounded no_std Kitty graphics and Sixel processing with host-owned rendering",
       "archived": false,
-      "sha": "b296a58f09d6052f13c86dc09e9e7b7f7e87438f",
+      "sha": "aa0ed19fb706ad147aff1df54c4ef762d918e864",
+      "paths": [],
+      "truncated": false
+    },
+    {
+      "repo": "LIghtJUNction/zguard",
+      "branch": "main",
+      "description": "Lightweight Security Guardrails for AI Agents.",
+      "archived": false,
+      "sha": "6772b932a65e18f64e13591dee6edb2f6b099406",
       "paths": [],
       "truncated": false
     },
@@ -1665,7 +1701,7 @@
       "branch": "main",
       "description": null,
       "archived": false,
-      "sha": "fd65b2f4396318fd7b4a81ff8f9c5a43a552f553",
+      "sha": "cb63a9a0aa163214c6062664cd62fefb357be5a8",
       "paths": [],
       "truncated": false
     },
@@ -1688,11 +1724,20 @@
       "truncated": false
     },
     {
+      "repo": "LIghtJUNction/zi18n",
+      "branch": "main",
+      "description": "Borrowed no_std localization catalogs and named message formatting for Project Z",
+      "archived": false,
+      "sha": "cdff8dea19e97268d296afa827767ea689420591",
+      "paths": [],
+      "truncated": false
+    },
+    {
       "repo": "LIghtJUNction/zinput",
       "branch": "main",
       "description": "Bounded no_std input-method core, native Linux event decoding and terminal codecs for Project Z",
       "archived": false,
-      "sha": "37617313dd7aaabcca9dd567344a76c4cbe03907",
+      "sha": "fe1cbaec744fa790a043383d45f612b8d19dcd32",
       "paths": [],
       "truncated": false
     },
@@ -1710,7 +1755,7 @@
       "branch": "main",
       "description": "A small native Minecraft launcher built on Project Z. XMCL feature parity is tracked explicitly.",
       "archived": false,
-      "sha": "3659cf144c69356268f9a185d9ea80eecb50cc7c",
+      "sha": "a3858a0f731ba08cae45bc1672f161218ca4a190",
       "paths": [],
       "truncated": false
     },
@@ -1719,7 +1764,7 @@
       "branch": "main",
       "description": null,
       "archived": false,
-      "sha": "bc89d7fa3b0249b3a9037748e2113b31615e8c89",
+      "sha": "84fc4978a248c2a3e2dd110f4f26fa52dd8b6890",
       "paths": [],
       "truncated": false
     },
@@ -1737,7 +1782,7 @@
       "branch": "main",
       "description": null,
       "archived": false,
-      "sha": "00d566eedcff7b2932e90b9dfeb44910c783d305",
+      "sha": "cf02c1d9db575b92b36297dfe1fde72de9ee51e4",
       "paths": [],
       "truncated": false
     },
@@ -1746,7 +1791,7 @@
       "branch": "main",
       "description": "Native no_std PTY and ConPTY ownership for Linux, macOS and Windows",
       "archived": false,
-      "sha": "66919bc6dcb7757e0437fe955bfa809fb1282b68",
+      "sha": "d263f9a8f0881d259e46c51a7b6753c61ab9be59",
       "paths": [],
       "truncated": false
     },
@@ -1755,7 +1800,7 @@
       "branch": "main",
       "description": "Native configuration framework for oh-my-ztty, deployed with zdot",
       "archived": false,
-      "sha": "ef8bd9571e206c8086e38b9dcbdc760a466b5133",
+      "sha": "2f10ea8dcfbef2db1204ed46dd21ff98c61ed8ee",
       "paths": [],
       "truncated": false
     },
@@ -1773,7 +1818,7 @@
       "branch": "main",
       "description": "A lean native zsh framework with lazy plugins and explicit AI context",
       "archived": false,
-      "sha": "1cfa1a1eb761d14e2ccfd5381282b6ccd1491cff",
+      "sha": "f7842f70e439c4abda2a46698f0ebe067d38b297",
       "paths": [],
       "truncated": false
     },
@@ -1800,7 +1845,7 @@
       "branch": "main",
       "description": "Bounded no_std terminal screen, scrollback and VT protocol state",
       "archived": false,
-      "sha": "a2074bac4c030cfd7c0b2514c852a89dcf54648f",
+      "sha": "1a761334f0b9cf26da700426a5b82778f0d48c3d",
       "paths": [],
       "truncated": false
     },
@@ -1809,7 +1854,7 @@
       "branch": "main",
       "description": "A lean no_std Rust terminal for Linux, built on Project Z.",
       "archived": false,
-      "sha": "155fea51aa138b0503ea1d80be4252aacb2c61a7",
+      "sha": "99ef7a0f02dfb643a426b4b5f8daf0bc009d9752",
       "paths": [],
       "truncated": false
     },
@@ -1827,16 +1872,7 @@
       "branch": "main",
       "description": "Native multilingual composition application built on zinput and Project Z.",
       "archived": false,
-      "sha": "91edc97aab1bea18f15f56e1ee2ec0651cc85916",
-      "paths": [],
-      "truncated": false
-    },
-    {
-      "repo": "LIghtJUNction/zui",
-      "branch": "main",
-      "description": "Small native GPU UI primitives for Project Z, without third-party Rust crates",
-      "archived": false,
-      "sha": "5e37fcfb791eec9ac523fc19373e95d0a513112f",
+      "sha": "e3e8c1014e29653da587cc993076cb02e469b456",
       "paths": [],
       "truncated": false
     },
@@ -1845,7 +1881,7 @@
       "branch": "main",
       "description": "Agent-native computer use shell and Rust library. Project Z: small core, native desktop control, MCP and human handoff.",
       "archived": false,
-      "sha": "889e4c4c17c903159fb4616dd6ee565001919767",
+      "sha": "a1bb8fd2cbce0a9d85134999883c578358065242",
       "paths": [],
       "truncated": false
     },
