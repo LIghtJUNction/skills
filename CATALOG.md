@@ -2,7 +2,7 @@
 
 [返回首页](README.md)
 
-截至 2026-11-24（UTC），检查了 **167** 个公开非 Fork 仓库，其中 **51** 个仓库有技能，共 **447** 个 `SKILL.md` 文件入口。这是文件入口数量，未按名称或内容去重。汇总仓库本身不计入扫描。
+截至 2026-11-25（UTC），检查了 **167** 个公开非 Fork 仓库，其中 **51** 个仓库有技能，共 **447** 个 `SKILL.md` 文件入口。这是文件入口数量，未按名称或内容去重。汇总仓库本身不计入扫描。
 
 按来源仓库排列；同名入口保留各自路径。技能名称取自目录名，根目录技能用仓库名表示，未解析 frontmatter。
 快照链接固定到本次核对的提交。项目随附技能可能来自第三方，归属与许可请看原仓库。
@@ -340,12 +340,12 @@
 
 | 技能入口 | 仓库内路径 | 核对快照 |
 | --- | --- | --- |
-| [agentmail-email](https://github.com/LIghtJUNction/lightjunction/blob/main/.agents/skills/agentmail-email/SKILL.md) | `.agents/skills/agentmail-email/SKILL.md` | [固定版本](https://github.com/LIghtJUNction/lightjunction/blob/f4f5bf4ccc57d4c2e5050f9ea3de31a08fca47aa/.agents/skills/agentmail-email/SKILL.md) |
-| [lmm-best-service-page](https://github.com/LIghtJUNction/lightjunction/blob/main/.agents/skills/lmm-best-service-page/SKILL.md) | `.agents/skills/lmm-best-service-page/SKILL.md` | [固定版本](https://github.com/LIghtJUNction/lightjunction/blob/f4f5bf4ccc57d4c2e5050f9ea3de31a08fca47aa/.agents/skills/lmm-best-service-page/SKILL.md) |
-| [opensource-small-pr](https://github.com/LIghtJUNction/lightjunction/blob/main/.agents/skills/opensource-small-pr/SKILL.md) | `.agents/skills/opensource-small-pr/SKILL.md` | [固定版本](https://github.com/LIghtJUNction/lightjunction/blob/f4f5bf4ccc57d4c2e5050f9ea3de31a08fca47aa/.agents/skills/opensource-small-pr/SKILL.md) |
-| [share-file-handoff](https://github.com/LIghtJUNction/lightjunction/blob/main/.agents/skills/share-file-handoff/SKILL.md) | `.agents/skills/share-file-handoff/SKILL.md` | [固定版本](https://github.com/LIghtJUNction/lightjunction/blob/f4f5bf4ccc57d4c2e5050f9ea3de31a08fca47aa/.agents/skills/share-file-handoff/SKILL.md) |
-| [skill-improvement](https://github.com/LIghtJUNction/lightjunction/blob/main/.agents/skills/skill-improvement/SKILL.md) | `.agents/skills/skill-improvement/SKILL.md` | [固定版本](https://github.com/LIghtJUNction/lightjunction/blob/f4f5bf4ccc57d4c2e5050f9ea3de31a08fca47aa/.agents/skills/skill-improvement/SKILL.md) |
-| [user-project-maintenance](https://github.com/LIghtJUNction/lightjunction/blob/main/.agents/skills/user-project-maintenance/SKILL.md) | `.agents/skills/user-project-maintenance/SKILL.md` | [固定版本](https://github.com/LIghtJUNction/lightjunction/blob/f4f5bf4ccc57d4c2e5050f9ea3de31a08fca47aa/.agents/skills/user-project-maintenance/SKILL.md) |
+| [agentmail-email](https://github.com/LIghtJUNction/lightjunction/blob/main/.agents/skills/agentmail-email/SKILL.md) | `.agents/skills/agentmail-email/SKILL.md` | [固定版本](https://github.com/LIghtJUNction/lightjunction/blob/4dbeca35f6c80ebd06a16eb1233de65dec580d06/.agents/skills/agentmail-email/SKILL.md) |
+| [lmm-best-service-page](https://github.com/LIghtJUNction/lightjunction/blob/main/.agents/skills/lmm-best-service-page/SKILL.md) | `.agents/skills/lmm-best-service-page/SKILL.md` | [固定版本](https://github.com/LIghtJUNction/lightjunction/blob/4dbeca35f6c80ebd06a16eb1233de65dec580d06/.agents/skills/lmm-best-service-page/SKILL.md) |
+| [opensource-small-pr](https://github.com/LIghtJUNction/lightjunction/blob/main/.agents/skills/opensource-small-pr/SKILL.md) | `.agents/skills/opensource-small-pr/SKILL.md` | [固定版本](https://github.com/LIghtJUNction/lightjunction/blob/4dbeca35f6c80ebd06a16eb1233de65dec580d06/.agents/skills/opensource-small-pr/SKILL.md) |
+| [share-file-handoff](https://github.com/LIghtJUNction/lightjunction/blob/main/.agents/skills/share-file-handoff/SKILL.md) | `.agents/skills/share-file-handoff/SKILL.md` | [固定版本](https://github.com/LIghtJUNction/lightjunction/blob/4dbeca35f6c80ebd06a16eb1233de65dec580d06/.agents/skills/share-file-handoff/SKILL.md) |
+| [skill-improvement](https://github.com/LIghtJUNction/lightjunction/blob/main/.agents/skills/skill-improvement/SKILL.md) | `.agents/skills/skill-improvement/SKILL.md` | [固定版本](https://github.com/LIghtJUNction/lightjunction/blob/4dbeca35f6c80ebd06a16eb1233de65dec580d06/.agents/skills/skill-improvement/SKILL.md) |
+| [user-project-maintenance](https://github.com/LIghtJUNction/lightjunction/blob/main/.agents/skills/user-project-maintenance/SKILL.md) | `.agents/skills/user-project-maintenance/SKILL.md` | [固定版本](https://github.com/LIghtJUNction/lightjunction/blob/4dbeca35f6c80ebd06a16eb1233de65dec580d06/.agents/skills/user-project-maintenance/SKILL.md) |
 
 ### [LIghtJUNction/linux-windows-apps](https://github.com/LIghtJUNction/linux-windows-apps)
 
@@ -475,7 +475,7 @@
 
 | 技能入口 | 仓库内路径 | 核对快照 |
 | --- | --- | --- |
-| [ssmcp](https://github.com/LIghtJUNction/ssmcp/blob/main/skills/ssmcp/SKILL.md) | `skills/ssmcp/SKILL.md` | [固定版本](https://github.com/LIghtJUNction/ssmcp/blob/0a0ef9d76006332ae306d00199d90ca70c7e3bf0/skills/ssmcp/SKILL.md) |
+| [ssmcp](https://github.com/LIghtJUNction/ssmcp/blob/main/skills/ssmcp/SKILL.md) | `skills/ssmcp/SKILL.md` | [固定版本](https://github.com/LIghtJUNction/ssmcp/blob/eae3174d0e335ab6adcb56469db159d0e13dde99/skills/ssmcp/SKILL.md) |
 
 ### [LIghtJUNction/used-car-video-copywriting-skill](https://github.com/LIghtJUNction/used-car-video-copywriting-skill)
 
@@ -494,7 +494,7 @@
 
 | 技能入口 | 仓库内路径 | 核对快照 |
 | --- | --- | --- |
-| [x-quality-growth](https://github.com/LIghtJUNction/x-quality-growth/blob/main/SKILL.md) | `SKILL.md` | [固定版本](https://github.com/LIghtJUNction/x-quality-growth/blob/5e56d891ebe3cb15f36db2ca0708f71c074b6be0/SKILL.md) |
+| [x-quality-growth](https://github.com/LIghtJUNction/x-quality-growth/blob/main/SKILL.md) | `SKILL.md` | [固定版本](https://github.com/LIghtJUNction/x-quality-growth/blob/00faeb12b4fcbe67961c94f4d214bd2417878702/SKILL.md) |
 
 ### [LIghtJUNction/x-skills](https://github.com/LIghtJUNction/x-skills)
 
@@ -653,9 +653,9 @@
 
 | 技能入口 | 仓库内路径 | 核对快照 |
 | --- | --- | --- |
-| [zuse-find-package](https://github.com/LIghtJUNction/zuse/blob/main/skills/zuse-find-package/SKILL.md) | `skills/zuse-find-package/SKILL.md` | [固定版本](https://github.com/LIghtJUNction/zuse/blob/b2466b90ea43f0fdc0b59fb91c9cd6d49c387f8d/skills/zuse-find-package/SKILL.md) |
-| [zuse-publish-package](https://github.com/LIghtJUNction/zuse/blob/main/skills/zuse-publish-package/SKILL.md) | `skills/zuse-publish-package/SKILL.md` | [固定版本](https://github.com/LIghtJUNction/zuse/blob/b2466b90ea43f0fdc0b59fb91c9cd6d49c387f8d/skills/zuse-publish-package/SKILL.md) |
-| [zuse](https://github.com/LIghtJUNction/zuse/blob/main/skills/zuse/SKILL.md) | `skills/zuse/SKILL.md` | [固定版本](https://github.com/LIghtJUNction/zuse/blob/b2466b90ea43f0fdc0b59fb91c9cd6d49c387f8d/skills/zuse/SKILL.md) |
+| [zuse-find-package](https://github.com/LIghtJUNction/zuse/blob/main/skills/zuse-find-package/SKILL.md) | `skills/zuse-find-package/SKILL.md` | [固定版本](https://github.com/LIghtJUNction/zuse/blob/1bfccf07658630e9fb3b033e6f4d54113ebb9d87/skills/zuse-find-package/SKILL.md) |
+| [zuse-publish-package](https://github.com/LIghtJUNction/zuse/blob/main/skills/zuse-publish-package/SKILL.md) | `skills/zuse-publish-package/SKILL.md` | [固定版本](https://github.com/LIghtJUNction/zuse/blob/1bfccf07658630e9fb3b033e6f4d54113ebb9d87/skills/zuse-publish-package/SKILL.md) |
+| [zuse](https://github.com/LIghtJUNction/zuse/blob/main/skills/zuse/SKILL.md) | `skills/zuse/SKILL.md` | [固定版本](https://github.com/LIghtJUNction/zuse/blob/1bfccf07658630e9fb3b033e6f4d54113ebb9d87/skills/zuse/SKILL.md) |
 
 ### [LIghtJUNction/zuse-skills](https://github.com/LIghtJUNction/zuse-skills)
 

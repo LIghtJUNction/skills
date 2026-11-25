@@ -1,6 +1,6 @@
 {
   "owner": "LIghtJUNction",
-  "checked_at": "2026-11-24T02:29:21.686194+00:00",
+  "checked_at": "2026-11-25T02:29:31.520234+00:00",
   "repositories": [
     {
       "repo": "LIghtJUNction/ace5-kernelsu-next-susfs",
@@ -729,7 +729,7 @@
       "branch": "main",
       "description": "自动更新的 GitHub 项目索引 · Searchable project directory",
       "archived": false,
-      "sha": "696ba69fe03e8d2fd3e35be97a484cc1e37ca583",
+      "sha": "1708f81637e2d314668a73bdf0dd7b88d8401848",
       "paths": [],
       "truncated": false
     },
@@ -861,7 +861,7 @@
       "branch": "main",
       "description": "I'M LIghtJUNction",
       "archived": false,
-      "sha": "f4f5bf4ccc57d4c2e5050f9ea3de31a08fca47aa",
+      "sha": "4dbeca35f6c80ebd06a16eb1233de65dec580d06",
       "paths": [
         ".agents/skills/agentmail-email/SKILL.md",
         ".agents/skills/lmm-best-service-page/SKILL.md",
@@ -924,7 +924,7 @@
       "branch": "main",
       "description": "MagicNet-mihomo",
       "archived": false,
-      "sha": "4daee4cc782fb8edfeef71d924f0b55425826e22",
+      "sha": "08bba0b25812b14ffd47af4e32015f22d726db5f",
       "paths": [],
       "truncated": false
     },
@@ -1107,7 +1107,7 @@
       "branch": "main",
       "description": "A lean, AI-native Linux terminal suite built on Project Z",
       "archived": false,
-      "sha": "b766c4bd9984b20c22bdacf10df973683fb97f4a",
+      "sha": "602c8a682ea53bd27a36944eadc620a001255af7",
       "paths": [],
       "truncated": false
     },
@@ -1116,7 +1116,7 @@
       "branch": "main",
       "description": "Native Omarchy dashboard for Git repository deduplication on Btrfs",
       "archived": false,
-      "sha": "d7f74a843e46c260a9b472dda474eaac929da3dd",
+      "sha": "b242f7f3486e72341ba92751b345378932c6dda7",
       "paths": [],
       "truncated": false
     },
@@ -1236,7 +1236,7 @@
       "branch": "main",
       "description": "Best-Effort Extent-Same, a btrfs dedupe agent",
       "archived": false,
-      "sha": "dbb7cc8432e5a1405f7d611ffdefd98d3f7a5532",
+      "sha": "a752f2e1c138540464f65e0ee7ca375c37f3bf3c",
       "paths": [],
       "truncated": false
     },
@@ -1245,7 +1245,7 @@
       "branch": "main",
       "description": "Project Z coordinated source snapshots, dependency checks and integration workflows",
       "archived": false,
-      "sha": "7755c6f5c1e5c22383ff425db9f05ef5877e8f41",
+      "sha": "7613a787e912c67227e353bc7f9417ef546a614b",
       "paths": [],
       "truncated": false
     },
@@ -1336,7 +1336,7 @@
       "branch": "main",
       "description": "remote harness",
       "archived": false,
-      "sha": "0a0ef9d76006332ae306d00199d90ca70c7e3bf0",
+      "sha": "eae3174d0e335ab6adcb56469db159d0e13dde99",
       "paths": [
         "skills/ssmcp/SKILL.md"
       ],
@@ -1406,7 +1406,7 @@
       "branch": "main",
       "description": "RISE: recursive X and GitHub growth experiments, based on X open-source ranking code and honest quality measurement",
       "archived": false,
-      "sha": "5e56d891ebe3cb15f36db2ca0708f71c074b6be0",
+      "sha": "00faeb12b4fcbe67961c94f4d214bd2417878702",
       "paths": [
         "SKILL.md"
       ],
@@ -1620,7 +1620,7 @@
       "branch": "main",
       "description": "Native Project Z control panel for the zcalld local AI gateway",
       "archived": false,
-      "sha": "b9e487dea5bc36453a1d292f9dca64479bf81dbb",
+      "sha": "edd8fb8c4c371a3663e5045304d0c37e1cd017ca",
       "paths": [],
       "truncated": false
     },
@@ -1638,7 +1638,7 @@
       "branch": "main",
       "description": "Compact Linux-native AI gateway powered by zcall and zplugin",
       "archived": false,
-      "sha": "701e56eb431edf28bc6a9a50aab732f7275f17d3",
+      "sha": "782d9516b4119c9915406d23a5a982d314e253c9",
       "paths": [],
       "truncated": false
     },
@@ -1755,7 +1755,7 @@
       "branch": "main",
       "description": null,
       "archived": false,
-      "sha": "96635fac40980a4175ed6480dffec67f49439f0f",
+      "sha": "1f7bdfdb42ff70be84afb67429e152766bf74eeb",
       "paths": [],
       "truncated": false
     },
@@ -1791,7 +1791,7 @@
       "branch": "main",
       "description": "Bounded no_std input-method core, native Linux event decoding and terminal codecs for Project Z",
       "archived": false,
-      "sha": "b801edfcee8b107757fb450faf77dd93e4bf29f4",
+      "sha": "4069bc86d2533c666a16a9703e536d8f7e1d52e3",
       "paths": [],
       "truncated": false
     },
@@ -1809,7 +1809,7 @@
       "branch": "main",
       "description": "A small native Minecraft launcher built on Project Z. XMCL feature parity is tracked explicitly.",
       "archived": false,
-      "sha": "d8fb6c11e8b48ff6173e4c8dbeebbc379662b772",
+      "sha": "90853309074c3b99d2153d49d2b603a09f2dce85",
       "paths": [],
       "truncated": false
     },
@@ -1854,7 +1854,7 @@
       "branch": "main",
       "description": null,
       "archived": false,
-      "sha": "cb24ece40f49257b077da54091b0ecaebea7488a",
+      "sha": "a1a524ff9499415e83725904963c34919aba64db",
       "paths": [],
       "truncated": false
     },
@@ -1881,7 +1881,7 @@
       "branch": "main",
       "description": "Independent Rust async runtime with bounded tasks, timers and reproducible benchmarks",
       "archived": false,
-      "sha": "beeea183b7dcbff7fe34ea0add9039d6058c2edb",
+      "sha": "5346e6bd9c5471af3d2f3255a8a5a57645833a21",
       "paths": [],
       "truncated": false
     },
@@ -1926,7 +1926,7 @@
       "branch": "main",
       "description": "Bounded no_std terminal screen, scrollback and VT protocol state",
       "archived": false,
-      "sha": "4fc5aafd90d36146f4c1d9affa04e1877c1c4888",
+      "sha": "8dac2dbdedb3107eaff140af20c822fd6036864c",
       "paths": [],
       "truncated": false
     },
@@ -1935,7 +1935,7 @@
       "branch": "main",
       "description": "A lean no_std Rust terminal for Linux, built on Project Z.",
       "archived": false,
-      "sha": "f51bf443dd5de1931ae18455054c4846a0b069d4",
+      "sha": "141ae17f087ceef755575d1e43f7c5b455ed4f8a",
       "paths": [],
       "truncated": false
     },
@@ -1953,7 +1953,7 @@
       "branch": "main",
       "description": "Native multilingual composition application built on zinput and Project Z.",
       "archived": false,
-      "sha": "dae32464655554545f57a07d5c3858532291d111",
+      "sha": "0ede150a4521f455c2fed34f052069822ce09e9e",
       "paths": [],
       "truncated": false
     },
@@ -1962,7 +1962,7 @@
       "branch": "main",
       "description": "Agent-native computer use shell and Rust library. Project Z: small core, native desktop control, MCP and human handoff.",
       "archived": false,
-      "sha": "b2466b90ea43f0fdc0b59fb91c9cd6d49c387f8d",
+      "sha": "1bfccf07658630e9fb3b033e6f4d54113ebb9d87",
       "paths": [
         "skills/zuse-find-package/SKILL.md",
         "skills/zuse-publish-package/SKILL.md",
